@@ -1,0 +1,4844 @@
+
+--- PAGE 1 ---
+| °
+
+[estes aon te cas SER RE A a SALT eC Aven OIL A/T PTR ARON can ROUT REL ATRR TT UE pee anna
+
+| fno | Description ___| Available (YES INO).
+
+1 . H
+| 41 |Work order “a | | :
+
+: seomatrical lanhchan I
+(2 Seometficaltest chart__| |
+i|_3 [Axis Calibration Report = |
+I —p— pO d
+} rc mee — ops gs
+‘|S Spindel stabilization report _ | __
+
+| || 6 | Spindle balancing report |
+
+i re med
+
+(| 7 [Hydraulic circuitdiagram |
+/}(_8_ [Pneumatic circuit diagram a — |
+| . . : )
+| 1 9 |Minutes of meeting copy a |
+RI ome rs ie
+40 Machine checklist == J
+
+| - |
+| | i |
+| il __Quality Assefance Executive Quality Assurance Chief
+Prepared By: Approved By: [issue nen | |e Doce: | \™ “of
+J PERE TOS TSN AGAR AUS . ee ee ee tg Day AMI E ANIL bate
+
+
+--- PAGE 2 ---
+. i. ” » » . i etestediieal Py Ph ET ne ————— - bs — —— - |
+. t
+- 7 - ‘ : ele }
+° i - ; ; - is ees |-
+. Ave 5 '
+° . 7 a ; bt ai = 7
+4 , i
+\ |
+1 - os :
+e id . |
+. ~ -— - -
+‘ - - - - ib
+« - ; mj .
+“os - ® “
+: — il <= = “5 ; - :
+= 7 ® “ A () hs
+rf * oe 7
+. ‘ i
+i
+: - ad r \ |
+Fy |
+ms
+:
+’ ” ” a L
+’ ' hd - - '
+Pal ’
+. ~~~ *
+‘
+.
+“
+*
+; ‘
+il
+‘ ; 12.
+.
+- 7 “ .
+: = :
+F
+= a = = —
+
+
+--- PAGE 3 ---
+j= a aa a Es ae a a a as A a I so a a Ss i
+i February 16, 2009
+
+i Minutes of Meeting held between M/s. Acutech., Pune & M/s. Ace Manufacturing Systems Ltd., Bangalore at
+j AMS works on 16.02.2009
+
+AMS ACUTECH
+
+i Mr. S. Madhukar Mr. Paresh R.Deshmukh
+
+d Mr. Nagaraj Bhat
+
+Sub: Inspection of 1 No. CNC Vertical Machining Center Model MCV-400 (Machine No : M11-467)
+
+f Ref: Your purchase order no. AT/Pur/2009/07 Dated 11.02.2009
+
+Mr. Paresh R.Deshmukh of M/s. Acutech visitéd AMS on 16" February’09 for the inspection of subject
+i machine.
+
+g 7] Following tests were conducted on the machine and the reports will be sent along with the machine.
+
+1. AMS has done laser calibration of 2 axes.
+
+2. Balbar test has conducted on X & Y axis -
+
+Geometrical tests, Heavy cut test, NASA test and rigid tapping tests will conducted by AMS and reports will
+eH be sent on 20.02.09.
+
+Following are the highlights of the minutes:
+
+1. Perpendicularity between table top surface and z-axis along YZ plane is in higher limit to be
+| corrected before machine dispatch.
+
+| 2. Machine to be dispatched only after getting Rotary table from M/s.UCAM and the same to be
+| interfaced on the machine and properly tested.
+
+AMS requests Acutech to arrange for the release of balance payment immediately.
+
+AMS thanks Mr. Paresh R.Deshmukh for his kind co-operation extended during machine inspection.
+
+| ze For AMS For ACUTECH
+
+Hl
+
+|
+
+
+--- PAGE 4 ---
+|
+|
+|
+1
+
+
+--- PAGE 5 ---
+|
+
+: Work Order RN
+
+; ys
+
+| ,
+: ae . St Cwis-Acutech >
+
+| Pune
+
+? Machine : CAertical Machining Center
+
+: del MCV-400
+
+: P.O. No. AT/Pur/2009/07
+11.02.2009
+
+O.A. No. : OA-11-431-09-00
+
+. 13.02.2009
+
+, W.O. No. WO-11-431-09-00
+
+13.02.2009
+
+. ;
+
+
+--- PAGE 6 ---
+= . a = / - 7 at a eee SN le © a ee ee Se ly as — wren 4
+7 <
+. = |
+® : : ® . . 7 PI - . H
+P 7 = - af al = = 7 ‘
+' )
+7
+ey ; k 7 ; - |
+‘
+a bes - .
+/ l P fi
+. - Ay - * i oh . é i - 7 - - a aE
+- = ’ © © - ; ¥
+J - - . ® - 7 - -
+= - - - ; |
+: = = -
+® = Le 7 o ?
+.
+- S ' - ‘ - =" - - “= {
+= . J - - = »* . « ; a 7
+« a 5 :
+- | LJ 7 - -
+' = . a - - - - -
+5 - i
+‘
+. P : .- 7 7 ; “ss - f
+= = s * . . a . « :
+x = -—s ] 7 ' - .
+. . . -
+a a “4 - ta 1 ' - * i
+‘ |
+= Fi : . a.
+‘ 7 -
+af of - - p 7 i
+- 7 . . ' a . -
+- = | - ' ". 5 : : =
+- .
+te. . =. 7 bad sl
+z I
+© - ~~
+E . : is : . o ‘_ - - - Oe © f
+. = = "= 7
+Py - - . 7 ” - ‘,
+cr] - - / - -
+- « - - . - 7 - .
+” = - 5 |
+' a
+‘ « - ! s
+. . . s /
+- . - oA
+- «i + 7
+. - = - - . - ie
+a . { .
+’ s ‘es,
+= - 1 in .
+* a
+: . - ic . |
+I ; ‘i ; a i
+. « a : * _*
+° = = ] h
+Fi - i i «
+.
+.
+b= -
+'
+- :
+| . '
+it
+. |
+\ - |
+*’\ =
+; i
+"'’
+
+
+--- PAGE 7 ---
+}
+
+| ‘
+
+, - Work Order
+
+| 01. Work Order No. & Date : WO-11-431-09-00
+
+; , 13.02.2009
+
+{ Order Acceptance No. & Date : OA-11-431-09-00
+
+‘ . 13.02.2009
+
+02. : M/s. Acutech.,
+
+03. Address : S.No.49/1A, Opp. Shatrunjay Mandir,
+
+Katraj Kondhwa Road,
+
+Pune — 411 048.
+
+? 04, Phone No. . ot
+
+7 ° 05. Fax No. :
+
+: 06. E-Mail : : acutech_india@yahoo.co.in ,
+; 07. Excise Control Code No. :
+
+08. Sales Tax No. & Date : CST:
+
+| . 09. Contact Persons : Mr.Paresh Deshmukh, Partner
+
+7 10. Our Quotation No. & Date Offer dated 04.02.2009
+
+: . 11. Our Tooled-up Proposal No. & Date : Not applicable
+
+12, Customer P.O. No. & Date : AT/Pur/2009/07 Dated 11.02.2009
+
+: 13. Machine : CNC Vertical Machining Center Model MCV-400
+
+i 14. Colour of Machine : Blue and light gray combination (Blue - Munsell No.
+4 . 4PB4/10 Light Gray - Munsell No. 2.5y7/0.5)
+
+15. Scope of supply, Technical Specs & : As per Anneuxre-|
+
+fo ly CNC features
+
+I Cy 16. Machine Inspection ° : Geometrical accuracy’s and machine acceptance as
+fob Nae . per test chart & NASA Test.
+
+: 17. Component trials ; : Not applicable
+
+jot 18. Price Rs. 20,20,000/-
+
+: (Rupees Twenty lakhs twenty thousand only)
+
+: 19. Delivery : Machine to be kept ready for inspection by
+: 13.02.2009.
+
+: 20. Payment terms : 30% advance along with the order. Balance
+payment along with 100% of taxes & duties to be
+paid against proforma invoice before machine
+: ; dispatch.
+
+
+--- PAGE 8 ---
+Z BO ee _ = Oo 7 =F = # «= = wee : 2 ——— ee ¥
+. + - . ;
+of i
+-
+7 »
+- * HM . 1 . ;
+a F :
+a - = +. i=. = _ | a eh sma 7 “f—_t 7 - "ay 4 - ;
+; “ws, * Oo = - . = “a ow F offal, - va
+4 - “a /. oa ~“— To - vt 4, = Se 4 oS
+r! —_ =F = i == a = *
+= = - A, tl i ;
+- - =, “ >= i a '
+- + -*. i I - - = .
+- - “ 3 a a - i a. i . 7 = 7 . mi! »s i= . i
+- a se - a = La = = ME = _+,,! === ..* “1 ' BY
+4 : 1 = i + oan ia 7 i
+’ . _ I - - - 7 ot - _ = 4 . =
+- =" “ 27 « 4 = » | ; a 7 = 8 = 4 7 = * 1, = 7 ;
+= = i | ". =. - = -
+.—=——" pa 7 » =, ut i * _*= a! i ; i Sat - i
+= - Pn = = - =
+_ = ba) ' 7 od 7 “ . n ' 7 2 = ws a = : LD r bl 4 "= |
+~ « iF 7 pe ow = me : i, i" .* 1 =" 7 - a) ee | = 4
+a - ; ' mo * 4 » = r - » ¢&
+. 7 =t« I » - Ld f
+1. = oe FS . " |. 1 oc: _ 7s "4 - a
+- * « 7 i
+=I % ; =d « : =O 1, s a oe 7 - — - 4 wal « 7 ;
+© 4 iS “ LJ e . = 4 =I
+i ' *.F" : 1. > Wy I F h
+at nn ee a ie be - —_—-{,_*= SU =S.t s-' = : : 1
+1 “uo tee - - ; i a, " o* Pd : - iy fi OS
+j—-=_ - = i _o! = a = = -
+- —_ = - - a or = '* wal == i -- = - |
+ae = 7 I =! — so FT I - i - i ie! "a _ 7 a 5 a
+a ' a =I fe | s i] I ¥ = '
+} =" <_ : i_ 1 « = - *91 =, 4 =! —_ #5081 t= _ == j
+1 = = = - _
+= 7 , =
+: =! ,= =.  . ; - - if hi
+i . os = = = = . .
+Oo ; i 17 7 : 7 at - 7 »! = = 7 nea 4 ai - Z ss |
+= = “a a a = & a
+=F fa 7 4 : : os - F* . - “4
+- . ! - a = | 1 I = - ae = w= oof » i Fi f
+= =" a4 - .' , =) ~~" .* * 2"™ Fi - I IF ;
+: ' i ' 7 “— a Lo - ' -=- “a - ' : ;
+= . = Tr it La in a i =~ = 1
+‘ = . = : 7 a . * oO ; , ! , |
+= . 7 = — i 7 i i = = . 7
+= « i : I = i ss a 10 = " .
+; a” ; ie = _ * 4 = 7 ; .
+- . =) - . os = »" : - _f 7 J, . = 1
+I ; ¥ Se = 7 i - 7 - ; 1: i - - 7
+= 7 By 1 " i c
+—= - 1 - - = = “
+Ir Fs = ' 4 - =” 7 - ' nn in OS ||
+- " . it "= Aa “= = |
+_ Ie I h =” . - - : a [ : ae
+== - et = a ' ‘=, - =— r = Py - |
+' i =-—= 2 = . 5 La a '
+| = ae _~ : : - - -1* a
+— OO - = - 3 - - |
+; ® ® a a = = 7
+a I 5 = - - ; _ = Hy
+= - - - - - A - a 4
+- ' La a LJ = = = LJ é 7 mJ a
+/ os | : = 2 m 5 7 : * » ges 7 . #
+a = i == ee .? : “ny - = - = = baal = -
+i 1 st - —* - = _
+- ; = " : i = - - 7 ri. .
+= 7 * { 7
+=
+é = - La i.
+I * - ‘
+= + hos . | 14 . 1
+: ' a F - . - 7 = be . bd a
+7 _ ‘” -= = 3 wi - - “ -
+- ' i - - “ - _ 1
+i _ OO I ~~ a 7 a Hi
+- - 4 = : a? -
+7 - - = = 7 7 ; . - - |
+; i” ee . . - x nal = 3" ih
+I ' « oO = . I - c 7 yt ca 7 . . .
+= 7 - - - HM oh & ' 7 i ; 1 - . 7 I a i
+- . oo Fa Ss z i iT : ; OO
+_=- * = " - i - Ds =a © g ye a
+- 7 i = *
+i - - vo, ro. - = 29 = 7 * - = s
+ls ” 4 ; a . i
+1 = = 1” a a - - -
+= ’ - |
+= LJ 4 i
+: a |
+. rr} ; |
+= {
+.
+ik ‘ - E
+- - . in .
+_ 8 7 a - =I -
+7 7 r
+a * :
+7
+i
+- A
+
+
+--- PAGE 9 ---
+— Ee Lp dan ene nse tee canadian Fae I EES A ne OE eT SOT TTI ATT PLLA I IT AIT IS TAIT Oe ae ep ee ee
+a
+A _ -2-
+A Ref: WO-11-431-09-00
+: 13.02.2009
+3 : 21. Duties & Taxes : CED @ 10.3% (which includes 3% Education Cess)
+f & CST @ 2% against Form-C. However, Taxes and
+Duties prevailing at the time of despatch will be
+applicable. .
+: 22. Exchange variation : Not applicable
+23. Packing charges © : Inclusive. |
+: |
+: 24, Transportation : Door delivery through any reliable carriers and ,
+freight to-pay basis. ,
+: 25. Insurance ) : To be arranged by Acutech. We will furnish
+despatch details. |
+: 26. Commissioning ‘ : Free of cost by our Engineers.
+a 2 27. Warranty . : a) For Machine: 15 Months from the date of supply of
+eo the machine or 12 months from the date of
+tO ' installation at the customer end whichever is earlier.
+" : b) For Fanuc System & Drives: 27 months from the
+HG date of supply of machine OR 24 months from the
+fot date of installation at the customer end whichever is
+. earlier.
+28. Training : Three persons for One week at our works, Training
+: includes. .
+4 b) Programming and Operation - 1 Person
+: : b) Electrical / Electronic / Mechanical trouble shooting
+and maintenance - 2 Persons
+| For A¢¢}Manufacturing Systems Ltd.,
+1 (P. Ramadas) . h)
+; i . Managing Director ice President
+a ; e
+‘.
+\ ’
+
+
+--- PAGE 10 ---
+roe = = = - hoe LI nN, -— ee a es oy ¥ [=e « = - -_ = a tot a _ Me ei L — a = .
+r ; = - See 5 7
+
+: . - ns ;
+
+: ‘"s .! - 7 : = 1 - - - =" ‘4 /
+
+; 1 OO - 1 si fos 7 i - = 1 . * 1_ fl _1 «ff
+% OL = a 1, 4 1 . all / a al Lo 1” - ;
+ih 7 -_ -. = me tet _ - Tae 1 al - 7 i F - : * - |
+=. 5 "i =. - a 7 * = = 7 - ; 7
+= = - i = a ae ' « * ale:
+
+" 7 7 5 ; - ... - _ ” ” a 1 = I
+I - 4 - = 4% i =a i 7 La ' =4ng - = '
+= i - i] . —_ _ «@ = =| = - ail = 4
+— = 7 - = = ; = - — a= -
+- i: - - + —_= § . - J = : - - of OO r |
+=F = 3 - = ) 2 — - ee ‘. = - ; 7 - 7 ¥F P - 7 Lr) “
+H = = - ' = a = _ 7 - 7
+i 1. t: i= '! < ™ a be. 14% - I So = al
+~ i= -= - I - oo i = a a al
++ 7 - _ _ * «la = 7 H - P ~= “s ; = '
+: i a »_ # = - - =" ‘
+=I I ; / a - ; 1 ** * 7 . _ :
+' = ' ~r 1_ pat F - . - = - a an ;
+rf . 7 ; 7 - 7 7 “\_ | = -
+
+-_ - - = 7 - fT - a “= r :
+
+. -«=it* Ba = = . u » 8 - *, 74 -
+
+- = ‘ i = i = "
+
+Fi ; a —_ s i = = " J 7
+=} _ —* 7 i “ -= 1 =F "=F, — ' bs
+Py .- * = = - 7 = = - 1
+- _ Pe 7 1, * " . = So --— = = = _ a - 7 3 7 7
+i st - - as = - = 7 - -™= 1 in = i = x
+'. . tt ’ i : : 1 7. = - 1«* - oJ
+
+a = = ' - = =I 2) oe ca “ rl a =I «= - ="
+2, ! oe . - : fe. » 5 ™-= — id 1
+
+- -_ ~~ = _v 7 Oo + - au * - a ; ' , a J i a "rh ; i
+
+| = = LJ — = = - = = 4 =
+
+, - = Oo i. I - = > =
+
+if —= — = ‘ - :
+- = i 7
+
+= - ae Lal | - —l ee ee" - 4
+
+a = - = Me a = = ; i ' = 4 i
+
+- ‘ou . I Hl - 7 ;
+
+7 7 2 - = = ~~ - < * a q
+7 i : YW “ ee * ; = 4 © -"
+
+- | = ; - = w a® = h, - - _ a a |
+a i eo - 1.4 1. om 3 = = =. |
+; oe al al as = = ~Emes a ie L ,'-= a i = 4" am
+‘= Sr es it e ca" OS - ; hy - '
+
+i = = = oe oe - & a = I = < j
+- - =" a A 1. -—_ >! _ i - a iT - _
+7 , = | a ' a ‘1 *. ws mu - 7 a a - = |
+. - a r = = i SP We See '
+= I - i 7 4 2 ; 1 at | Oo mtr
+7 - = oe 1 am = “4 , oo
+‘s = «ee Se a I I a ; 7 = a a *
+
+- - “47 - = 4 ’y Se =- "1 i
+a i - 1 = » ty - a n - - z - Oo
+x7. a 7 ' - - -- i - i ee doge y =
+
+_ : ‘ -,*7 0 ; “= 3
+a - =F, ' - = 1 ora | : = 7
+
+u 1 Ly = 7 7 - - - '
+7 a wo. i,k z 7 = I =. " = i
+a 4 : ;
+i : I= +t = ; - - an - 7 agi
+- a | - -
+a: ~ , : 5 1, “4 ' - ;
+- - . 1 - - 4  , J = - Fi 1" ;
+- ™ == « 1 - 7 =. = - = I 7 I J
+; - - - - ? : . : - 1 = - fi
+- * 7 - - « ;
+i = “. ' _ i
+; co —.
+= = I = = -
+. i 2 a ; h
+- : /
+» _ = a I = 7
+4 = , =." =u" = ~“ w= * a”
+- - ; 7 i = ’ 4 i)
+7 . = a *
+us - a 7 = - 7 > 1 - i
+- oO 7 ="m * = - i = =!
+- = La = , 7 ; f
+- a LJ - i
+a 7 ‘ - “= @ = -
+— 4 pe es —S = = = ao | a - Oo
+._ oe =" * = ', 2 ™ ° a a - A a: I - a
+on _ t 7 - you, = . hiv’ 4" Bn e ff
+
+4 = 4 = - i i - i
+- = - 7 - aa = - 7 1 7 = mow - i, =! - - }
+
+- ~~ 7 '4 = = 1 So fe we r r ; - =|
+
+- ; _ -_1m = « =. i : i] : I ia 4 |
+- a J = = = 1 ae
+; . i” . 7 ¥I I F '
+rc |
+: “ - = |
+i a | F = i] a 4 = I i
+. = - - ne - q Oo - *|
+
+b I ; 7 f 7 - . Sw
+
+7 1_ - - = - : 7 -
+
+‘! _ bl % 4 i 7
+
+; ® ® * :
+
+- Im 7
+
+J - ; x H
+
+7 7 7 7 7 . 4
+ty. - -
+1 ; ,
+we i
+‘=. bs i
+7 : = 7 = "|
+we get ‘
+7 : a 4 ”
+= 1 i ; 7 a L
+
+
+--- PAGE 11 ---
+|
+| ACE MANUFACTURING SYSTEMS LTD. ° AIMS
+| ANNEXURE -! .
+SPECIFICATION OF CNC VERTICAL MACHINING CENTER
+. MODEL MCv-400 ;
+en
+1 |TABLE _
+1.1 |TABLE SIZE mm 900 x 450
+4 4.2 |T-SLOT DIM. nxwxPe | 4ax1d<tod |
+| 4.3 |MAX. LOAD ON TABLE Kf 300
+| . 1.4 |DIST: FROM FLOOR TO TABLE TOP mm 925
+2 |MACHINE CAPACITY
+2.1 |X-AXIS TRAVEL mm so
+| 22 |Y-AXIS TRAVEL mm © 430
+| 2.3 |Z-AXIS TRAVEL mm 460
+| 2.4 |DIST. FROM SPINDLE FACE TO TABLE TOP mm 160620
+| 2.5 |DIST. FROM SPINDLE CENTER TO COLUMN GUIDEWAYS mm 510
+| D 2.6 |COOLANT SUPPLY-FLOOD COOLANT AROUND THE SPINDLE Ipm 50
+3. [SPINDLE
+| 3.1 SPINDLE NOSE TAPER 7124 No.40
+| 3.2 |SPINDLE SPEED - DIRECT DRIVE . rpm 80 - 8000
+: 3.3 |SPINDLE BEARING DIA mm 70
+| . 3.4 [TOOL CLAMPING FORCE Kof 450
+| 4 |FEED |
+4.4 |RAPID TRAVERSEX, Y&Z AXES m/min. 30/30/30 }
+4.2 |CUTTING FEED mm / min. 1- 10000 ,
+43 |BALLSCREW DIAFOR X, Y & ZAXES mm 40 140/40
+| 4.4 |GUIDEWAYS FOR X, Y & ZAXES Linear Motion
+| 5 [AUTOMATIC TOOL CHANGER
+5.1 |NUMBER OF TOOLS Nos. 20
+: 5.2 |MAX. TOOL DIA mm 80
+lo, 5.3 |MAX. TOOL DIA. WITH ADJACENT POCKETS EMPTY mm 155
+; 007 5.4 |TOOL SELECTION Bi - Directional
+5.5 |TOOL LENGTH MAX. mm 250
+| . 5.6 |TOOL WEIGHT MAX. Kg. 187 G 3
+| a 5.7 |CHIP TO CHIP TIME -  1See. (39/48 ‘Lia
+wae 5.8 |TOOL CHANGE SYSTEM Twin Arm*
+7 5.9 |TOOL SHANK TYPE . . BT - 40
+5.10 |PULL STUD TYPE DIN 69872 Form-8
+} oo. 6 |ACCURACY WITH ROTARY ENCODER
+6.1 |POSITIONING FOR X, Y & Z AXES AS PER VDI DGQ 3441 0.015
+6.2 |POSITIONING FORX, Y & Z AXES AS PER JIS B6330 0.010
+ee 6.3 |REPEATABILITY FOR X,Y&Z AXES AS PER VDI DGQ 3441 + 0.005 :
+‘ 6.4 |REPEATABILITY FOR X, Y & Z AXES AS PER JIS B6330 : + 0.003 |
+7 7 |MOTORS :
+7.1. |SPINDEE POWER 30 MIN./CONT. (SIEMENS) - AT BASE SPEED OF 10.5/14.5 |:
+, 2000 RPM kW
+: ‘ 7.2 |FEED MOTOR X,Y&Z AXES (SIEMENS) Nm 14.4114.4114.4
+| Page 1
+| ,
+|
+a . '
+
+
+--- PAGE 12 ---
+| |
+|
+
+
+--- PAGE 13 ---
+| .
+
+: ACE MANUFACTURING SYSTEMS LTD. AMS
+ANNEXURE - I ‘ ~
+
+: SPECIFICATION OF CNC VERTICAL MACHINING CENTER
+
+: MODEL MCV-400
+
+! 8 |INSTALLATION DATA - MACHINE
+
+: 8.1 |MACHINE WIOTH mm 1900
+
+8.2 |MACHINE DEPTH mm 3150
+
+: mo 8.3. [MACHINE HEIGHT mm 3250
+ie 8.4. [MACHINE WEIGHT - NET Kof ; 4100
+
+| 8.5 |POWER SUPPLY FOR BASIC MACHINE Kva 14
+
+: 8.6 |CNC CONTROL (WITH 10.4" TFT COLOUR DISPLAY) SIEMENS 8020
+: . . SL PRO
+
+: 8.7 |PNEUMATIC PRESSURE REQUIRED : Kgf / Cm2 5
+
+: 8.8 |PNEUMATIC SUPPLY REQUIRED AT ATMOSPHERIC PR. Lpm 300
+
+9 [TANK CAPACITY
+
+: 9.1 |COOLANT TANK tite 300
+
+: 9.2 |LUBRICATION TANK (USEFUL QUANTITY) lite 5 (4)
+
+: 9.3 |HYDRAULIC POWER PACK litr _—
+
+: 10 |MACHINE FEATURES / ACCESSORIES - STANDARD ,
+
+; 10.1 |PANEL COOLER FOR ELECTRICAL CABINET :
+; ° 10.2 |PNEUMATIC COUNTER BALANCING FOR Z - AXIS
+
+10.3 |FAIL SAFE BRAKE FOR Z - AXIS
+
+; 10.4 |FLEXIBLE COUPLING FOR X, Y & Z AXES
+
+fous 10.5 |STANDARD WORK LIGHT
+
+; 10.6 |THREE TIER INDICATION LAMP TO INDICATE CYCLE RUNNING
+
+| ook READY FOR NEXT CYCLE & MACHINE IN ALARM STATUS .
+; 3 10.7 |MANUAL PULSE GENERATOR :
+
+i 10.8 [RIGID TAPPING
+
+10.9 {TOTAL MACHINE ENCLOSURE
+
+ae 10.10 |JCOOLANT TANK & CHIP TRAY
+
+i; 10.11 |CHIP DISPOSAL TO THE REAR SIDE OF THE MACHINE THROUGH
+
+} 4 TWO CHUTES ON THE SIDES - °
+
+fo 10.12 |MANUALS - ONE SET
+pos 10.13 [BALL SCREW STRETCHING FOR X & Y AXES
+
+— Gs MACHINE FEATURES / ACCESSORIES - ADDITIONALY ORDERED
+
+foot BY M/S.ACUTECH., PUNE. ©
+
+fo FLOOD COOLANT SYSTEM AROUND THE SPINDLE
+
+i CHIP FLUSHING SYSTEM ON THE BASE
+
+pos. i COOLANT GUN .
+
+| 4TH AXIS PROVISION WITH SIEMENS MOTOR & DRIVES +
+
+fy ACCESSORIES
+
+Fs ‘
+
+7 k
+
+- ‘
+
+*. Page 2
+
+‘i
+
+
+--- PAGE 14 ---
+Fe a oe af Ped . oj. oY 7 tes ee be ee _ — eng —— ‘ i
+-
+- “. a - ; i
+- . ; 7 ; 4
+' Z i ‘ "oF ® <= *
+. . . a = I
+7 Py |
+- 7 - _ ‘ 2 ate ‘
+- : ; ; -
+. - . 7 - - ;
+' - - ve . fi
+2 7 i
+: - ; - 7 : 7 .- . |
+a ea I _ 4 ™
+a 7 : as F
+Lt |
+- “ oF -
+7 - s I ¥ net ;
+' bd - - - ' ‘
+7 " J ee ; a tee
+-. t 7 “4 i - a * . . 7
+a = i oe ; 4: - a by - 5 - 7
+. - . - * ; = * 7 - a I
+® - ; - « * Ly . :
+: ———— oe 3 Es ;
+; ge a= males =~ : - — tower thevtilire se * L. - “ }
+- >» ia a aa - . aa es. ieee } yl =
+‘ bs ; ; : P a. _ 2 ‘ J 7 4 }
+. a . . t - ,
+- vi é *1 '
+: . 5 : LP 7
+- - ¥ - ¥ Ld » - 7
+in — + f
+"= FY = 7 7 . : :" i
+7 “: ' F <5 Wa) of is f
+i on i
+- - ve P = 7 - ¥ a . + 4 - a 7
+- . ' ; - Ww * : m "Be t
+- - * 7 a - “— ;
+. . a ° ita = ; ; ; ;
+: — * = aly - 1
+: - - t =a) i 7 : - - - of ; : = : j i ra I
+- J »
+= m0s ' . 5, Fs 4 , ‘
+- - yr. aS pe ts 7. ft “
+/
+. be PY ; |
+- - |
+7 - ' bl ‘It
+he ra . - : : - -
+pw pe - 7 ;
+ee ay 7
+ph Fey « 7 . |
+Pym =i ie: “
+C) Pas . ~~ a: : :
+‘jhe * hd L es + st : 2 ;
+= Fy bee if
+j - s - 7 . ' fey zs i
+i . . “ s
+F mr oe a ” : -
+— “ LJ - es a - ib a a i eo = -
+
+
+--- PAGE 15 ---
+ART MACHINE HISTORY (SIEMENS Si.) Date:-
+
+| NOTE:- CHECK THE MACHINE AS PER THE WORK ORDER
+Sa
+
+i De eee era ene ll 4 -
+
+SYSTEM SIEMENS SL PRO?/ PLUS
+
+i
+
+3 . MAIN OPTIONS STDCLN?,C.CONV(SLAT/SCRAPER),D.CONV, CTS,HYFIX,
+
+i .
+
+zs PNFIX,AUTODOOR,ROT-TB,SRVATC,SRVMAG, APC, |. TABLE
+
+3 M/C BACKUP (PATH) - SERVER: _
+
+; M/C BACKUP (PATH) : \\arya\E-Backup-IIELECTRICAL MACHINE DATA\AMS DISPATCH MACHINE BACKUPS (2007-08
+
+: SYSTEM TYPE NUMBER SERIAL NUMBER
+
+j SIEMEN SL 6FC5370-0AA00-24A0 “ 2 AAO S$ 2WIRKnIS ©
+
+SINUMERIC VO MODULE PP SZNVOBFOS O60).
+
+] ar: 1, 243 >)
+
+H a
+
+i ACTIVE LINE MODULE 3PH 360-480V 50HZ —SSL3131-TTE21-6AAQ i. O en
+ceienne sei nl [ASE O06t35a4 )
+
+; DOUBLE MOTOR MODULE 6S1.3121-2TE21-0ARE L* ] STVINAO BY FAR
+[ae a, 2 27 dL ASE oottos3y \
+
+f DOUBLE MOTOR MODULE 6SL3121-2TE21-8AA0
+
+H Qty: 1, 2 SPINDLE X,Y, Z,
+
+’ SINGLE MOTOR MODULE 1X15/19& © At- 6SL3121-1TE15-0AA® ST-VOQGSIE TU =
+
+j ___aty: 1, 2 ATC , 4TH AX®— || ASE O18 GAME |
+
+i __SINGLE MOTOR MODULE 6SL3121-1TE23-0AA0» ~~ T+ VCD @B4% Tey |
+
+i Te, 2 SPINDLE MOTOR | ASE 0SLRI 744
+
+SINGLE MOTOR MODULE 6SL3121-1TE21-0AAQ \—— i $ T-V9IACBZO BF
+
+i “@ : ary: 12 — LAS 6 OOF84 UGE. ||
+
+: _. BASIC LINE FILTER __68L3000-0BE21-spa0 A Lk: ) a eee
+
+| HF REACTOR 16 KW 6SN1111-0AA00-0BA1 - te
+6F¢9320-50601 :
+
+| 6SL3055-OAA00-SBA1
+
+: AC MSD HOLLOW SHAFT SPI MOTOR 1PM6105-2LF84-1AR1 _
+
+Z COMPACT INDUCTION MOTOR © #-——, 1PH710%2QG02-0LJ0, i a
+: -—S_tPtalog—an Gog-bero VO TTRO &
+
+: AXES MOTORS oo eixslerinsceo yeep Dips sg
+
+: SYNCHRONOUS SERVOMOTORS ___AFKTOBD-SAFTIAFG2 fp
+
+IFK 1063 ~ S APH -IFGH g/ VOUT TIQSO) 94
+VOUFIFH*1SD! Got
+: JUNE-2006 Page 1 of 3 :
+
+
+--- PAGE 16 ---
+PARTI MACHINE HISTORY (SIEMENS SL) Date:-
+NOTE:- CHECK THE MACHINE AS PER THE WORK ORDER
+cs a
+| ____syncnnonotsservomorors | araronscnrriarno | VOL9999EeAm |
+SYNCHRONOUS SERVOMOTORS 1FK7083-5AF71-1FHO 1 Ala.
+I
+| __svwounonousservomorors | arkroazsarriarez |
+[atau C—C“—é‘iRSCSC
+nn OO
+[tomers CU —CsSOCCCC“‘“S*sésdEC ‘$ENN Nass
+| SIGNALGABLEPREASSEMBLED (FEEDBACK) | ___—erxz002-40cooaHo ary: |
+| ___seuerproripuseisiamems =| ~—sesarzonaatoxan ary: =|
+| __SIGNALGABLEPREASSEMBLEDInzonpe7 (| _—=—seXS002-20CH0AFO QTY; =|
+SiGNALGABLEPREASSEMBLEDIp20pc7 |= XS0O2-aDCIOMAMO TY; |
+| ___poweRcasLepreassemacen ——«|_—=S—rXS0z-SCADI-tAFO TY, =|
+| __POWERGABLEPREASSEMBLED(WTBRAKE) _|___—GFXS00zsDAOIGAFO ary: |
+| POWERCONNECTOR | SCwskztezaacomnno ary; =|
+a QO
+TRANSFORMERA—ssS CSC
+a Ce
+PRIMARYVOLTAGE ss * (415 V3PHASE SO HZ AC |
+ISECONDARYVOLTAGE «(AS VB PHASE fp —CsisSOS :
+12144 KVA T —C—iszS
+IRANSFORMER-2(FORREGPOWERSUPPLY) | CC“
+a
+ISECONDARYVOLTAGE.__——————S—S~S~=«diOOV PHASE DOUBLETAPSOHZAC |
+PowR —CC AN ™—— —C—i—‘“‘*‘é~rTSC“‘(‘(CWCd
+a |
+REGULATEDPOWERSUPPLY. |
+MAKE S™™~™~™~™SSSCSCSCSC*drSELEEMEGANQUEIOMRN S| |
+INPUT VOLTAGE. SS™S~™~C~szov PHASE |
+ee
+MAKE | sazeR(apa\Tevemec |
+. es aig ion
+RATED CURRENT ones toon |
+Ce
+RcooER—sSSSC—“‘iYSSCCO
+conTROLVOLTAGE.SCS~sd stove NC CT CU
+ISETTEMPERATURE CCS EGREEL™
+en
+- |CNG 4000E \ CNC 2000EG \ ~
+TURBO1000 R33\ TURBO 500 R50 \| &L4
+po
+JUNE-2006 Page 2 of 3
+
+
+--- PAGE 17 ---
+3]
+
+j PART! MACHINE HISTORY (SIEMENS SL) Date:-
+| NOTE:- CHECK THE MACHINE AS PER THE WORK ORDER
+
+QUANTITY a
+HARTING CONNECTOR eee eee
+| ICOOLANTTANK st a '24 PIN
+40\ 16\ 24 PIN ; RHS: LH.S:
+ICHIPCONVEYOR—SSSC=*dA0 16.1 24 PIN
+, : OTHERS en we Be ||
+
+| a ee | I Se
+i JUNE-2006 ress
+
+:
+
+
+--- PAGE 18 ---
+.
+. cH ted
+|
+° \
+NOLWOZ13S SCOW lo MONGOO LOddG) AVMOF S1OdS| NMAOSOL fl
+WO Gasas/dldva j Y | WOcrshO COddO) AVMSL 31Ody| NIOSOL | SK
+NOILOS Tas Gaad Sd f \ | MOZNEOO €OddG) AVMP B1Odz|_ NHOSOL 4A
+ee \ 4 OANVATIESHISA, «dOW V OYVOSAaM OF vas
+DV AQ SdliHd/ diVT LSNIGvo
+fALiossvd
+e . a
+ee ee OVA 082 \ dW a1anoa pINvHve dW SNIHOVA
+ana SGA ve | \ BINOLVd / YVINVLVd dWV1 Yall ASH
+bex 2X ccX beX OX | | OGA ve | [oreaorees SAV Tad HLIM Guvog Av1ay
+92X SEX | | OO Ae | [D-82-600-8¢S-1SA SINGOW AVIaue
+92X Wbex Lex } Od AvZ NO-£2-600-97S"1SA BS INQOW AV1Su-2
+ON? asOdund JOATSD \/ 7adow | een 89d / SAV 13a
+indino [4 D0 Ape ZIFNOOD WES AN-ISA TSA FINGOW AVise a 1Enod
+CONV ANENI YLTaO/ EVILS]  /
+ee ee 00 Ape Z1SNOOO WYLYANTSA BINGOW AV13aY SIONS
+“JOUINOD SSO/NO OND 0 Arz| $-dO-OL-200-de God JJOINO OND
+ZoWW a Paesesou NK JINGOW AV1ag SLVIS Gos
+TEL XSOND Wav ZOvVW aa as 00- Seer - VOrS|AViau Data AV1au SLVLS GMOs
+ONT aSOdund OATHS 7Tacow SVN God / SAV Iau
+rise AUCLISIM BNIHOVIT Chad
+
+
+--- PAGE 19 ---
+a
+dl PARTZ MACHINE HISTORY: APRILAS
+RELAYS / PCB ane _| MODEL CRLVOL PURPOSE / NO ‘
+| ee
+
+: sounstarcaeuy _levecreravlema-easco __————_ipavoc_ip_&<unce anit
+
+7 SOLID STATE RELAY ELEC.RELAY|SJDA - 4825 -00 24V DC MAGZ ARM _INDEXTBL
+
+. SOLID STATE RELAY (MODULE! | ver lacesooes 24V DC | stance
+
+4
+
+"]
+
+4 CNG ON/OFF PCB | vc leroos-ro-crs 24V DC | NC ON/OFF CONTROL
+
+SINGLE RELAY MODULE YSL-UMK-1RM_DG-CN-FI-2 24V DC i
+
+DOUBLE RELAY MODULE YSL___|YSL-UMK-2RM_DCCN-FL-2 24V DC OUTPUT
+
+| © VO PCB MACHINE YSL-S26-009-013-REV1-12/04 24V DG rea
+
+| WO PCB MCP YSL-S26-009-012-REV1-12 / 04 24V DC rn ee
+
+RELAYS / PCB MAKE MODEL CRLVOL PURPOSE / NO
+
+_ [2 RELAY MODULE | ver hreuszs-coa27.0N 24v DC a X21A___X26
+
+: ncuavoonrowmineavs | vs. _leaeoonsacn ave | 2" (eS Ye vas 00
+
+; RELAY BOARD WITH RELAYS Yst___|$26-009-23-CN 24V DC O_X21_X22__x23 x24
+
+LAMPS
+
+mee nentaue __lpavantfavparoure __———_eevoe_heorvet
+
+THREE TIER LAMP PATANGAR / PATOLITE 24voc__|LEDTYP
+
+MACHINE LAMP parianiecéoouate awe movec lino
+
+4
+
+eo CABINET LAMP PHILIPS 230vAc_| ty
+
+fF TOSOKU_|2POLE 4WAY (DPP03 003N20R ae V “Tire ren setection
+Fs TOSOKU_|4POLE 46WAY (DPPO3 015J20R Sar RAPIOIFEED OR
+ee TOSOKU_|SPOLE 10WAY (DPPO3 OO9N20R’ Fa: _.2SAODE SELECTION
+
+' Pageias .
+
+:
+
+
+--- PAGE 20 ---
+PART? MACHINE HiBTORY APRILOS:
+ns ee I Ee
+TEKNIC_|WITH KEY SEL /SEAT CHECK / DNC
+Ee
+TEKNIC_|2 POSITION APC STN1 OR STN2
+eg SS Se ee
+ee ee eee | |procrna ner
+SF ee es ee
+ascrincnenees Pe ee oe
+scmenivede Oe ee ees eee
+[| retane lonceneucreurron |_| YS Sen con nner
+TEKNIC__|GREEN PUSH BUTTON EJCTR UP/DN, LOC FWDIREV
+ee ee ee
+ioe TEKNIC _|RED PUSH BUTTON f OFF,DCLP,APC STOP
+ee en eee en
+TEKNIC _|MUSHROOM PB(RED EMG,APC EMG
+| ia: lees | — | — nemacrymremeeae
+ee en canto, an wrce
+— ” ~—ee ——
+reRnic | Ulan iu re ‘
+PROXIMITY SENSORS P (
+rr ee eee. eee eee
+rr ee ee eee eee
+re enn ee eee eee
+ee ee nn ee eee eee
+eS eee ee ee ee
+2 ees ee ee ee
+ee OS ese 0 eee eee
+ee ee ee a a ee
+ee nna ee eee
+ees sae ee eee
+rs ee eee ee
+ee ee ec pe o Ff
+~ A
+ee ee eee
+es ee eee | eee
+ONE ROT.SIGNAL PROXIMITY AB Cc D — G F_H
+P| cms cocmion prom | xs ¢ oe o Ff
+rr es eee ee ee
+ee ee A 6 pe we
+i he proximity | AB CG 0 E— G. F_H
+| id ecraaeconcns | 4 oo bp eo fs
+Pees ee PROXIMITIES ON APC STATION A__B Cc D E G F H
+Pa ee CHIP CONVEYOR O/L PROXIMITY | A BC DE GF _H
+Page 2of3
+
+
+--- PAGE 21 ---
+——— SES MM at RENE CLI GL at eS I TEE ep ia a a ge a a a a a SAS at a aa a ar a ah wr ad AE a OE SE OO Or a
+ql ead UACHINE HISTORY Ee:
+Lt
+
+a
+
+i
+
+:
+
+7
+
+/
+
+ee en ee eee cnenes
+
+]
+
+sana ee, eee
+4
+
+a a ae
+
+d aaa TEKNIC\BCH|NG1RS-510___\__NLTPR = | CABINET DOOR CLOSE LIMIT SWT
+
+| BCH _|JLSSPR_\_NLSPR — _|PALLeT-1 STATION LIMIT SWITCH
+
+BCH __|JLSSPR_\_NLSPR PALLET-2 STATION LIMIT SWITCH
+
+, ay ee NG1RS-510__\__NLTPR , | CHIP CONV1 O/L LIMIT SWITCH
+eee TEKNIC\BCH|NG1RS-510__\__NLTPR |_| CHIP CONV2 OL LIMIT SWITCH
+
+: CR las Ps ee
+BCH _|JLSSPR_\_NLSPR APC DOOR UP LIMIT SWITCH
+
+7 BCH _|JLSSPR_\_NLSPR ——— |apc poor DOWN LIMIT SWITCH
+
+Cz) eo TELEMECHA|XCE-154 \ JAI BALAMJI | — CYCLE START LIMIT SWITCH
+
+| Ps re ee
+
+4 td TEKNIC _|SG-01 R552 = FIXTURE LIMIT SWITCH
+
+sia atc a ee
+— FESTO/ SMC! MACHINE DOOR CLOSE /_ FIXTURE
+
+| es ee
+: santas a es
+i FLAT SENSOR | rexouc | FG2X05APO24-5000L sy | AG REF POSITION / NO TOOL IN SPIND
+
+, ssc mun lume | N|coesanrueven tow
+es ee ee ee ee
+ane ra ” meveen
+
+i PROTEC / MERLIN GERIN / SIMENS
+
+25A/3P _40/ 63A/3P TRANSFORMER PRIMERY
+
+im | me | cp rom pwr circu
+a a Oe TE)
+
+j 40N3P____—63N/3 100/3P TRANSFORMER SECONDARY
+
+A Page 3of3
+
+
+--- PAGE 22 ---
+PRRT2 MACHINE HISTORY APRS
+eens \ Done [ee [ae Zoe
+ee A
+pr pessoas ee | apace
+Pipers aes | haere
+RE en) rene —
+ee ae eee
+
+Bi JLSSPR_\_NLSPR PALLET-2 STATION LIMIT SWITCH
+Trees acer | 7 fens cares
+a Ga YO
+
+BCH SPR _\_NLSPR / APC DOOR UP LIMIT SWITCH
+Gl RE |
+
+BCH RA NLSPR APC DOOR DOWN LIMIT SWITCH
+PTrsaiccepaoum 2 | eeeraren,
+a (0 ve
+pte feat 7 | eaarees |
+ome || \7
+a |
+TE ee Se
+ea A
+poiwatica [ais uae || earns
+—~_—
+|
+Sa a Pe
+a A h
+Ae
+fe eave | —\ Tana
+Se | Pe |
+a Oe ST
+Sr 8
+A eR A
+a Pm es
+a
+a
+a a
+
+Paga3afd
+‘
+
+
+--- PAGE 23 ---
+; PART-3 MACHINE HISTORY April 2005
+
+| |
+
+| MAKE : SPRECHER & SCHUH / KLOCKNER MOELLER / SIEMENS
+
+5 NO. CONT. NO RATING SETTING DESCRIPTION MAKE MODEL RATING
+Page 1 of 2
+
+
+--- PAGE 24 ---
+PART-3 MACHINE HISTORY Apri 2005
+NO. CONT. NO |_ RATING SETTING DESCRIPTION MAKE MODEL RATING
+| eto | xtra Kie| 0.63-1A 0.78A CHIP CONV.-1 MTR__| LHPL / BONFIGLOLI P 0.18KW/
+FL ten | zen | wonton | srw |
+Lett | kisaKia| 0.63-1A 0.78A CHIP CONV.-2 MTR _| LHPL/ BONFIGLOLI f 0.18KW/
+TT nom | ze | | wonricnor | | osm
+K15 & K16 2.76A INDEX TABLE MIR PRAGATI P 1.6 KVA
+| F13 | K17 & K18 | 0.63-1A 0.78A SCREW CONV.MTR_ | LHPL/ BONFIGLOLI fT 0,18KW/
+Fea | tae | tonic | | osx
+Te |. loororcal | zavarermeur | |
+cot | aa lozeo4oa| —_—fouskmmeroprion| | |
+Troe | x28 | 25an | (| ruveextracton | |
+| co? | Kos 1-1.6A COOLANT GUN MTR RAJMANE RK3-270 0.37KW
+| rss | Kao | 4630 BAG FILTER MTR RAJMANE RKM.208
+CONTACTORS : MAKE
+fk cas.do7 126 24 DG SPRECHERSTIUH/AB
+PSM CONTACTOR CA3-30C-01 SPRECHER SHUH fy
+es 290 SPRECHER SHUH
+Tce SPRECHER SHUH |
+ADD ON BLOCK CS4-P AB / SPRECHER SHUH [| |
+EMG RELEASE CS4C-40E SPREGHER SHUH / AB {No
+Page 2 of 2
+
+
+--- PAGE 25 ---
+PART-4 MACHINE HISTORY JUNE-2006
+| ;
+| [ifeecitesrmasn ee eR
+| [fesricsssioonnns [ee
+| [pesteasnersciomsnesem -—[
+oe [ESeaEiemate. [eel
+Ze) CABINET [BOTTOM PLATE LH OR RH FROM FRON
+
+| [psensenmnoorsias [ve [
+| feaateoronme 1 arene [CAT
+(0 [eheeaaersnems ee
+| [efemestsomeanas [RRL
+A
+
+( leteeeemer eae
+Page 1 of 4 .
+|
+
+
+--- PAGE 26 ---
+PART-4 MACHINE HISTORY JUNE-2006
+i
+Fs lcouponewramon rasmornon | fp
+sv lcomponewranonéoniareecomonen | |
+Fe leomesscktoexornoniwna 1 aremmoe| | f |
+Fis loompssckuwockorrions 1 arewmor| | f
+Fsslcompvaccroccensworron | PO
+Fis scxrockaoumockracomonen —— | ff
+Fishausrocxewooronwran 1 aeanwe| —— [f
+Firhawsroekrevornowwaan 1 arenwoe| P|
+‘wlan stoccewormcsouné | Sf}
+Fol stockrwomorevencomonry | ff
+Foo lcoupnesrsenscomnon | |
+[atlnoorrestsensesouenons nora, | f |
+‘ralpesrsensepnessurcswmenes 1 23a | [owen
+Fesliwonensecry ss Tf |
+Ss Pe
+Fs es
+ra lcmunescouenceroaearmcico | |
+Pf
+Fs
+
+Page 2 of 4
+
+
+--- PAGE 27 ---
+PART-4 MACHINE HISTORY | JUNE-2008
+|
+
+4 41 |LENGTH FOR APC PROXIMITY ON TABLE M12 X 72 CONN. TYPE
+
+Page 3 of 4
+
+,
+
+
+--- PAGE 28 ---
+PART-4 MACHINE HISTORY JUNE-2006
+5 eee eee ee eee
+a ee ee eee
+2 ee ae ee ee
+1 Gee ee ee
+Sere ee
+—fesrmsanomesinn ——__|__} _____
+ieocomrmemanamn |S
+5 aes ee ee
+rere? 2 Me
+5 eee Ce Pee
+cere Bo
+
+| Fy ea ee ed
+
+i ene cy ee Gr a
+7 See ey ee eee
+| er ee eee
+a es
+|, | Kefary table Cucam)
+|. | Std Vewa Out.
+Al
+i PP ee Sees
+
+SIGNATURE:
+
+NAME: <\.o§\\ | Rey ‘ AM
+
+DATE:
+
+Page 4 of 4
+
+
+--- PAGE 29 ---
+co ne ee a pet 7 eet .s- eee oes ee ee eee —
+| = 4 ACE MANUFACTURING 8YSTEMS LTD - BENGALURU
+
+* *, MACHINE CHECKLIST RECORD QUALITY ASSURANCE .
+MACHINE NO: M)— AGH MACHINE INCHARGE: Mr, Bhoduy . _ Chorndbas
+
+: | SENG MECHANICAL CHECK POINTS:
+
+: i aanhe 4 Vance, diss Dinos __ dy be —s s
+
+mA tn_aesin_n Tn be nail
+Chip Push -nooten 7R00 ye tho soir thw.
+4 fs Nb mk Gun Bile Shah hoe ko fe Ofayyeds
+
+5 Meahunigal smicdente, sone pha dey be Chanaac! .
+
+>T_ Spindl, Mong. Cnuen_wto._fos Sivad- - omound esl os eR bon.
+: 2. cay yee nea omon bet te be_Chengadts
+
+| 11 TT
+
+a
+
+vi A
+
+7 p15 | ee
+
+| ~~ ELECTRICAL CHECK POINTS: _
+
+_ Sheotnicall erin fenene, te me plate. teh. Fake momen pho
+
+: Nw bed ttd
+
+or Sl nn
+
+: “QUALITY ASSCRANCE KSSHAIBLY SSC MECHANICAL ELECTRICAL |
+
+: |
+
+
+--- PAGE 30 ---
+- “7 as ak
+* Lath ae a!
+} *
+' Pi ,
+; - my
+Li ; -4 roy et “i ; Lt 6 ies \e d . : + |
+' , " : s, 1%. F ¢
+iareyt + A yet Lig ep the 20. «ad ‘
+’ - r A 4 7 ;
+yee gt io t i Sout | Re,
+a. 7 tit af S39 an | / ‘ - MS Sm
+. : ) |
+. .
+: FE is ,
+an A ote Vo | “WARE tabs +3
+’ abe 4 “) ti |
+5 7 = > r) ;
+
+
+--- PAGE 31 ---
+: oo
+i. * [SENo|GHECK POINTS [ AMS
+
+| | te AXIS _
+
+| Ensure plugs are fitted for L M Guide ways. a ae
+Ensure effective wiping of saddle cover wipers. ‘
+
+| Check the tightness of coupling and is set to 17/35Nm torque. |
+
+: Ensure the lub timer is set 12 min for HG and 20 min for LM Guide ways. lz
+
+| Ensure leveling bolts are fixed with locknut. L—
+
+: | 6 | Check the Table tennon slot 14H8 / 18H8 ‘(Tolerance 0 to +0.027 mm)
+| ° | 8 |Check the allaxes reference arrows are matched. _ ; |
+: [9 |The Machine/APC/Double Hand Emergency Push Buttén to be checked
+: Ensure all screws marking neatly in Yellow paint marker |
+| Ensure cover fixed to Index table, rotary joint & tool breakage sensor
+| Ensure sliding door free moment with out play and noise & nylon lock nut for rollers h — |
+: ia SPINDLE
+
+: Check the belt tension by using belt tension meter. __ ‘ lpD |
+Zz Ensure the proper supply of air to spindle at oriented condition.
+Ensure the proper supply of air to spindle Air Purge system a
+: Check the tightness of push stud. werd
+Ensure grub screws are fitted-to spindle flange.
+
+: | 6 [Check spindle orientation position and note down the value. 4031 - 12097.
+; Check the spindle balancing _
+
+: I AZ se
+
+: 4 |Ensure ATC? APC / Counter balance bracket pinning. —
+
+: 2 _|Check oil in ATC gear box. __ _ ae
+Check the Tool notin spindle proximitymessage. |
+: Check the Tool Number display in panei board as same as in spindle
+
+: COOLANT ! a
+: 1 _|Ensure no coolant leakage around the machine & lubrication oil drain pipe _|
+: Ensure proper working of float switch. 4
+: Ensure CTS flow switch setting ee =
+we Ensure suction strainer in CTS tank & pressure gauge working _ fh
+5 |Ensure CTS pin locator hole has plugged ee Wey —
+; Ensure gap b/w twin arm plunger CTS pin locator screw_ -ni—
+Ensure bag filter clogging. ee —vi—
+j | 8 |Ensure HP air blast after CTS switched off —Nr—
+: | 9 [Ensure drum wash in conveyors ee rN
+
+| Check conveyor overload message & Direction _ Nhe
+: Ensure Cenveyor wheels are free Kop painting —_ L—
+Check the function of M7, M30, M48, M52 & Coolant gut
+
+Check pallet initialization in APC Machine _ x
+
+g Ensure effective supply of air jet to pallet rest pad cleaning. ae
+Ensure. pallet change takes place smoothly without Heavy noise | 7
+
+
+--- PAGE 32 ---
+.
+*
+.
+*
+fy
+i
+.
+-
+.
+
+
+--- PAGE 33 ---
+_—_——— NN  ———
+| . aus . ©
+j L Vi |: HYD,PNEU & LUBRICATION.
+7 Frineiiren catrorapescel ares eer et n-ne eign itis Na ces
+A 1__|Ensure air pressure switch is working properly. _ nn Mane
+| 2__|Ensure proper setting of oil in FRL unit. & Oil Level low message _ a
+3__|Check the FRL drain hose fixed. ee See all
+| Ensure identification name plates are fixed in power pack hoses, __ 7 eee
+i Check the Hydraulic oil level low msg & Pressure gauge function ccumanaiinaussene wee
+4 | 6 [Ensure no oil leakage in hydraulic valves & fittings ee Pe *
+i Ensure lubrication pressure switch is set to 1S ba ea
+i Ensure coolant tank capacity engraved or marked in name piale E aa
+| 3 Ensure Geometrical report, Practical test report, Spindle balancing report, Laser & |
+4 Ballbar reports are attached in the history file 7 a
+i 4 Check Hydraulic circuit diagram pasted in power pack and specification is as per circuit _ | |
+Pe Tee ace acCsNetnicearmanstommniiommemmendicapiiaiuerininmanu. |
+7
+
+
+--- PAGE 34 ---
+QUALITY ASSURANCE Oo “test¢uart =——t«é‘d XMS |
+oe GEOMETRICAL, TEST (HART sims
+1, SPIRIT LEVEL READING (0.040 / mt): 2, TABLE TOP READINGS ( 0.020 / 500 mm): |
+|
+Along X-Axis Along Y~Axis Aiong X-Axis Along Y-Axis
+; senate
+— _ i;
+'  PALLET-= Il
+Along X-Axis : Along Y-Axis
+3. TSLOT READING (0.020/500 mm): cn
+an a a |
+| |
+PALLET ~ Il ete some See etn |
+as a a Sane
+, | 2 2 eee oe men
+| 4.COLUMN READINGS : 2. MANDREL RE ADINGS: , 6. TURN AROUND READING:
+| (0,020 / 300 mm) { 0.020/ 300 mm) (0.020 / 300 mm Swing Dia)
+| ; FRONT SIDE aN Side ~~ RUNOUT:
+| | a. TOP : ( 0.010mm) |
+| , |b. BOTTOM :( 0.020mm) :
+| 3
+a!
+1. SQUARENESS READING (X& Y): 8. PALLET HEIGHT VARIATION: 9, PALLET REPEATABILITY: Fe
+(0.015 / 300 mm) (6.03 mm) (0.020mm) le int
+Pallet 1 Pallet 20-9] 5 aif
+; Pallet-1: % ae vot) Re
+3 ‘i
+
+
+--- PAGE 35 ---
+: ".  ]* Quality Assurance {ACHINE 5 LIST AAMAS
+
+: { MACHINE CHECK LIS Paula
+
+| PARTICULARS a
+
+| Pt AXIS | —
+
+: 4 Check the marker pulse of all the axis; (Netapplicable| XX ___ Y Zz __8
+
+| ; for B- Motors) - — —
+
+: Check the backlash of all the axis. X Y B
+
+: > |PARAMETER: 1851 32450 P.009B0' 0.005500 0.03000 ——
+PARAMETER : 1852 __ 2AQKh HS {..d00 HOG! 1. bO000 OF L990 000 —_ |
+
+/ PARAMETER 1850 (Grid Shift). 7 0 O|. 0 —
+
+? Check the Z - axis motor current during Tool de clamp: .
+
+7 | _ fa. WINNER / MCV 320 - 130 TO 180% - _840Feed rate in jog mode:
+
+: b. DTC -/ 110 to 130 % Auto cycle / .
+
+: Z - axis drop during power off :
+
+: fa. + ve directions ( Towards table) - | ~ Q30 <000 — 930 -900
+
+; | db, - ve direction — 20 0 oA _ Q30:004
+
+. ————$—$——_———
+: 7 System - VOUS OO
+ma _____Dial:- Q+ 90 ~~ oot
+[axis _ _ )
+% of Axis current drawn: Amps
+
+| _—_}-ae 25% Rapid Rate 50% Rapid Rate _|100% Rapiid Rate | _ 600mm Feed Rate
+
+| |x ags4 | bisa _1308 D: BAQ
+
+? PY age | SF v5 | oO 590
+pO Bow | 400 | tr S/00_ gg |
+} es) " B-Rev ‘ 8 yo JsGoO fy AY_» —
+2 _[%ofAxisholdingcurent AMPS _ __
+
+| Axis 100 % Rapid Rate _ 2000 mm feed rate
+
+4 ——+— Motor End _ Brake Erid Motor End Brake End
+
+| x | Os 600 Oe 60 ag4do | myQ |
+: pz | Os ABS 0..50Q 0.420 0.480
+
+Over travel against Axis dead stopper in mm: _ _
+
+J | | SLNo_| Axis. ___ Motor End |__Brake End _
+
+, a x | 80.) te 9d _
+: ag vg
+
+
+--- PAGE 36 ---
+Wl | SPINDLE - a
+Record the distance of push stud face from the spindle face when there is no tool ,
+| _ a, Too! ejection {Allowable [| auto [Manual
+| _[pt-40 0.7/1.0 ae
+P| b.Tool Clamping Force( Kgf) ee 5 80 ei ae
+Ensure that the gap between draw bar and ejection screw / Roller
+a a. When there is no tool in the spindle( imm): a
+— b. When tool holder in the spindle ( 3mm) : =
+Axial Play in the Spindle(mm): a
+| ___|a. Tool De- Clamping: [o—» +0@ra—> [Difference
+|__ |b. 100% Load by Wood 0—> - piodgr O02 mm .
+a. % of ost drawn at maximum RPM of the spindle ; 0*+843, pme
+| ___|b. Spindle noise at max RPM (db) [1 meter radious and 1.25 meter height]
+ti | b.1 V#h door close
+|__| b.2 weistet door77-80db) ren SC~*”
+
+5 _|Spindle Stabilisation. cM ee ; Room Temp: a9: ts—i‘i*™Y
+pm _____ Hime ei Spindle Temp ;
+
+. lays | pte : .
+
+2 Ai 50 | ALS ee
+__ Final Spindle Stabilisation Temperature : Albeo —- BOC ‘=| leGe
+A.T.C _ a ZZ
+(heck tool change noise ( With too! holders ) eee
+Ckeck the Spring lever compression (mm)  coasapanita! —
+es a, Z -axis below to zero position, oe —s
+ae b. After the magazine buts against the dead stopper: _ Sf _
+ia ¢.Difference - BT-40 (2 to 3 mm) / BT-30(1to2mm) _ Se Re a
+
+: H se ee} Actual
+Foo! picking position in mm athe =13, 1000¢ joov0 SS Eee
+| 4 | Back Lashinthe ATC discgear(mm) — aol
+
+v_[ap.c a er 2
+
+1 Presure setting for the pallet transfer cylinder in ka /ome : ra Wi
+
+2 Presure setting for the pallet Clamp - Declamp in ka /em2 : esr Ser
+
+“Vi_|CYCLE TIME (IN SECONDS) _ ar a en -e
+_1__|Check the chip to chip time with Z axis only — BB
+2__|Checkthetooltotooltime -
+__3__| Check the chiptochiptimeallaxes = | HB We,
+_4 _|Check the palletchanging cycietine TR
+
+1 Time constant linear - 1620. 39 300 _ Aweiyr— Amd A vryd haa
+
+2__|Time constant bell -1621_  gg00 | — Arm Aa Ah, Rr
+
+3 __jAcceleration time in Sec ee ee
+
+4 [Decceleration time in Sec : ; = _.
+
+
+--- PAGE 37 ---
+| _ MACHINi:! HISTORY AM S| i
+STANDARD MACHINE : ~~ InPursuitof Excelence) Wa
+aa re ee dX = Axis Y - Axis Z- Axis
+: | 4.1 [Ball Screw Pitch = mm 1a 1d £ ,
+Distance from Spindle face to table top with | 7 — |
+| increased Day Light Area mm 160 |
+| 2 |FLEXIBLECOUPLING: =| __—CX- Axis Y-axis | Z-Axis, =
+| 2.1 |Model : ition | Ge > Sas
+
+| 2.2 |Make: eee as Mayr |
+| | 3‘ |ATC DETAILS: sl 40200 1 4024V /4030V/4020H/4024H/
+
+: | 3.4. _jATC Turret Type / Twin Ayn) ___—_|SLNo_ 3380 _ =
+[32 |ToolCapacity sss Ns S| 612 16/28724/30/40)
+Side a a KO
+ &» Se CRAO/CF-12
+
+i fae ee ee: Mak Model S.No
+
+: ae Magazine Encoder en “ATC12/ ATC16 a
+
+3.6 _|ATCArmMotorBrake | EMCOL— _ ee
+
+3.7 |ATC Torque Motor waite _____ TM 50/ TM 80 /TM100/ TM 125/ Servo ATC
+
+| 4 axis ae er ore ee
+
+4.1 _|Model | (EK 083-58 IP 2083-5AFAN- 7083 -GAEH
+
+42 |Make. | ewmumssemens |  'F42 "  Fenuc/Sieméns =
+
+| 43. |SLNo | | YR VOa FAIA YE vO eee ea
+MLN i i ceeemeonmrmererenens dr) veer OE rere sbi a |
+es i a ee: ae; a a : ce {on Built
+
+| 8 JHEAD STOCK DEVAS i s Sa. {7-77 San
+Ce ee a eee. ee a
+6.2 [Spindle Motor Neal) -___ Specification
+Make 105 J74P" Kanve/ Sieméns| — \PH-HOF — QOQPA-OLIO
+
+__|Power inKw NB OAL \ Pvp ATAFBOCY 0°
+
+: sss eee espero reer | --$ho cciittiiincemntegeMoemetrt
+
+“Sa [Spindle Nose Taper Ss*dC CT 80a BO SK
+
+sa |sIN0 AA
+
+65 |Spinde Speed RPM BO - 8000 DF
+
+| 66 |SpindleBearngsDia OP SEI GOL TOIBOL
+__7___|BELT DETAILS : NOT APPLICABLE TO DIRECT DRIVE
+teeter | coupuine
+
+: A aq HIDES) 3A
+
+be Make __. —__funittas Power Gio | Mayi\-—__
+
+
+--- PAGE 38 ---
+Quality Assurance ___MACHINE HISTORY
+| 8 |COOLANTSYSTEMDETAILS: el
+Tank Capacity (LTRS) 200 / 300 / 400 |
+P| Rajmane Industries Model
+Flood Coolaft Pump/Flexinox «| sRKM 206
+| 8.3 _|Chip Pus¥ing Coolant Pum ___RKM 2067 RV 160/270 -
+=, dicaiaisian aaa = Centrifugal Pump
+| 8.4 | Base Flushing Coolant Pump se RKM 206 /RV165/270, |
+Coolant Gtin & Drum Wash Pump RKM 206 / RV 160/570
+| 8.6 [Oil Skimmer - Make / Model a a
+8.7  |High Pressure Coolant Pump Mere |GrundfosWanner| |
+3 ee SS ae Ce |
+8.8  |Pressure Relief Valve | a ae —f
+Model
+as fmm a ake | Deubing aX _[_—
+fs s|Moodel ;
+| 9 |FLoaTswitcH: CS _ -
+Make aa | >. Filpro Electronics \—~
+Part No ot L&5Q4}7
+| 10 |CONVEYORDETALS: a
+Type of Conveyor :- Scraper along X or Y axis Z Slat cum Scraper along X or Y axis
+Model vey —§ ia
+Make ; : / _ Universal Conveyor
+| 10.4 |SINo | ses renee
+11_|GEARBOXDETAILS: _
+11.1 [Model ) _ eae
+11.2 _|Make eto gl / ____Universal Conveyor -
+| 12 _|FILTER SPECIFICATIONS : : _ _
+Model ar _ 8/15 : Max Working Pressure 50 or 100 bar
+Make _ Universal Preceision Tools :
+12.3 [SI.No
+| -13 _|COIL/ SCREW CONVEYOR DETAILS : ae __
+Quantity - eo ——- ee
+Make Universal Preceision Tools
+HYDRAULIC SYSTEM : a
+Product No 4 Qe.No:
+| 14.2 [Tank Capacity (LTRS) ee > 32/40/63 rae
+Maximum Working Pressure _
+Make _ ee Pascal / Hyd Tech / Rexorth / Yuken
+PRESSURE SWITCHES : _ 7 7 _ __
+Model 41PS 30-50 / 30-100 / 10 - 30/
+Make ee oT Polyhydron
+Quantity / . a
+
+
+--- PAGE 39 ---
+| .° . .
+
+, Quality Assurance MACHINE HISTORY _ as |
+
+| 16 [ACCUMULATOR : :
+
+: 16.12_|Make ; V FOX / BOSCH i
+
+| 16.2 |Set Oil Pressure _ NY ws
+
+| 16.3 [Gas Pressure __ |
+
+: | 16.4 [Volume inLts_, __ Lf __ 14/10 |
+HYDRAULIC CYLINDERS:
+
+: Make _--| /____Maodel Function
+17.1__|Island Hydarulic ae _ Pallet F/R 2
+
+; | 17.2 _ ___ | ——-|
+
+: HYDRAULICS VALVES : |
+
+| fF Type | Make Model Oty
+
+, 18.1 |Directional Valve Yuken DSG-01-3C4-D24-N1-50
+
+: 18.2. |Redusing Modular Vaive _ Yuken MRP-01-B30
+
+4 18.3 |Pilot operated check Valve _ Yuken ___|__MPW-01-2-30 !
+18.4 [Throttle & Check ModularValve | ¢ __Yuken MSW-04-X-30
+18.5 ee Rau
+Directional Valve ____ Rexroth __|_4WEGT 62/E G24 NOK4
+
+Redusing Modular Vaive _. Rexroth ZDR6 DP 2-32/75YM
+
+Pilot operated check Valve Rexroth
+
+| | 18.14 | Throttle & Check Modular Valve Rexroth | zaFs6-2-43/200V |
+
+! | 19 [rvoRauL PUMP : —-———Make Model
+
+| 50 ImoToR : _____ Make Model |
+
+: 21 (LUBRICATION UNIT DETAILS | Wake Pressure Setting
+
+| ~~ centus LDROPCO | 15 Kgl cma
+: ____ Motor . CENLYWB / BATLIBO! |
+| | 22 |FRLUNIT: |
+
+7 | Make Model __ Operating Range Grade of Qil | |
+__ Shavo\~ | _ M4H-260-M68C ~__ 0-10 Kg/cm2 Servo Way Spin 1
+’ ee» Make Specification
+: | DRYER __ | ____ Trident | VXD - 2\— |
+2 24 [PNEUMATIC VALVES: |
+: tt. Application | Specs Make Qty I
+| 24.1 [Spindle Air Jet <7 MFH 3-1/8 ____ Festok-—— | 1L— |
+24.2 {Spindle Air Purge MFH 3-1/9 Festo 1 |
+24.3, |ATC Pocket up & Down — _____JMFH§-1/8)-—|___—Festo\ 1L—
+
+i 244 |Manual Tool De Clamp L— MFH 5-1/8 \_— ___ Festot— 1
+/ 24.6 [APC Auto Door JMFH 5- 4/8 __ festo__ 1
+
+24.6 {CTSAirJet _ MFH 3-1/8 —s|__——~Fessto Zz !
+| 24.7 |Front Auto Door MEH 5-1/8 Feste - 4
+_ MFH 3-128 Festo 1 '
+24.8 _|Pallet Rest Pad Cleaning MFH 3-1/8 Festo |
+7 24.9 |Fixture __. JMFHS-1/8 | Festo’
+
+
+--- PAGE 40 ---
+Quality Assurance MACHINE HISTORY _ _—-
+| 25 |PRESSURESWITCHES: ee —OCOCOCOCSCSOSCSCS
+| 224. foeetai Range - ____ 2 to 15 Kg /em2 a
+25.2_|Make SS ee eee
+25 3 [Quant | : cr
+| 26 _|PNEUMATIC CYLINDERS USED( BROUGHT OUT IF ANY) : ee |
+en Function _ Make | Model Qty
+DNU80-80-PPV 7
+Manual Tool De Clamp oe STS REET Le
+Lense! | Rotexl = _sonoso/e |
+-- ~ es AutoDoor __Festo — _
+APC AutoDoor Fst 2 a a oo
+| 27 TURRET : INDEXING TABLE( OPTIONAL) a
+_ Makes ____ Model ___SI.No No of Station _
+: ___Pragathi/ AMS _ ee _ 8/2)
+28 ROTARY TABLE” Ae —-- ane a ieee ae
+Heaieanensocnemisacamnatsereuacnnes _NIKKEN/UCAM | AVRHAOL- RY | win- athe oe,
+29 TAILSTOCK ee Moge! a
+_ | CAM | AR AO ttn -s9h-35)
+30 LIMIT SWITCHES / READ SWITCHS Sen ne
+Leon Make — _ £_Aty Function
+30.1 |Jai Balaji/TeknicEuncher _. Front Auto Door / Front Door With CTS
+30.2 |JaiBalaji/TeknicEuncher || SW 2 ____ APC Auto Door
+30.3 __|Jai Balaji/TeknicEuncher Jf Pallet Station
+__31__|PNEUMATIC COUNTER BALANCING:SMC/Rotex/Festo |7~ Specification
+| 31.1. [Cylinder Dia: 80/100/125 MBI —XZSMO0G-GO
+Pressure Regulator nn ee _..__1R3020-04BGI
+Process Valve a a ll! ne
+32 _|Component Seat check ee ee —_ Bid = ihe
+SMC / Norgen _
+| 33 [Air reservoir eg ee ce
+Capacity a 30/40] 6] =
+| 34 _|SPECIALINFORMATIONS /REMARKS __ ects supa bit
+“auua “Teak thag Cink Saadeh pred
+1 Eee
+Rafesy Mode vasa Toul steok —Utam
+PPR — Qf — Ret } M dk
+QWrare fag — R80 UPAR IM |
+» Mt 1996 - 31’
+
+
+--- PAGE 41 ---
+, GEOMETRICAL TEST CHART
+
+| MODELNO.: MCV-400 =|
+MACHINE NO. — M11-4@7 00
+| CUSTOMER: ACUTECH = = =e
+
+
+--- PAGE 42 ---
+: a
+iY
+; rns,
+
+
+--- PAGE 43 ---
+TEST CHART MCV-400
+Joos YA M S FOR VERTICAL MACHINING CENTER
+: aN GEOMETRICAL ACCURACY TESTS | WJ 1=46¢7
+SL, Description of the test Figure
+Gl Levelling of Machine , |} |] 0.04/m along Level along
+X & Y axes at their l X & Y axes. X-axis :
+mid stroke | r 1 rt 0.01
+c— aml Level along
+: Y °
+: ‘, G2 Parallelism of table surface a: 0.025/600 0.006 |
+1 w.r.t. its Guideways or a
+j X-axis movement n 0.006
+‘a 004
+| |G3| Parallelism of table surface 0.02/415 0.008
+; w.r.t. Y-axis Guideways —
+g or Y-axis movement +
+g 1 0.005
+LO?
+; [oy 0.005
+g G4 Parallelism of reference cal 0.025/600
+Z T-slot to X-axis movement |
+yen | a .
+} DATE: 21-02-09] CHD. CUST:: " AMD. DT. : DOC. NO. D11-001-01-03
+4 CHD.AMS: =” SHEET : 02 OF 05 | PAGE NO.
+
+
+--- PAGE 44 ---
+F 7 = é : ' { i
+- - : ; « ih . 7 * . ro t. f
+i.
+
+
+--- PAGE 45 ---
+DEE ere eer ST eSSaareerts sab Eh EE ks SEE ELT ata ca ER = Ee we
+i TEST CHART MCV-400
+| A wi S FOR VERTICAL MACHINING CENTER
+
+GEOMETRICAL ACCURACY TESTS M1 1- 464
+
+4 SL. Description of the test Figure
+:
+
+a of aEia . __ MEASURE READING 0.02/460 0.007
+
+i movement w.r.t. X-axis
+
+/ movement al
+
+=| alg
+
+| CUBE SIDE
+
+a] PARALLEL
+
+d DATE: 21-02-09 CHD. CUST: : AMD. DT. : DOC. NO. D11-001-01-03
+
+a CHD. AMS :’ SHEET : 05 OF 05 | PAGE NO.
+
+
+--- PAGE 46 ---
+. 7 |
+
+
+--- PAGE 47 ---
+ACE MANUFACTURING SYSTEMS LTD., 2342
+? GEOMETRICAL TEST CHART
+
+a ~ PRODUCT :. WERTICAL M le CENTER.
+MODELNO: — MCY. 4og
+
+MACHINENO: — MI/- 4GZ |
+
+CUSTOMER : ACU TECH
+
+Z CHECKED CHECKED BY .
+
+
+--- PAGE 48 ---
+.
+|
+b
+1
+|
+I
+
+
+--- PAGE 49 ---
+pow os Cosvecrd tedt chort_otachod =
+, FOR VERTICAL MACHINING CENTER
+fo GEOMETRICAL ACCURACY TESTS M11
+| SL. Description of the test Figure
+Levelling of Machine al 0.04/m along Level along
+X & Y axes at their ] X & Y axes. X-axis :
+mid stroke — , zi .
+C = _ Level along
+4 T_T CO. OOS Y-axis :
+~~. G2 Parallelism of table surface a: 0.025/600
+w.r.t. its Guideways or
+4 X-axis neem | ae oF 6 4
+j “hie A 0 +4 +6
+) Lt 0 +2 +2
+G3 Parallelism of table surface | 0.02/415
+a w.r.t. Y-axis Guideways =
+a or Y-axis movement t 0 Oo fe)
+aa fp
+
++3 -4 -%
+
+G4 Parallelism of reference 2 0.025/600
+T-slot to X-axis movement il
+]] Lhe
+DATE: CHD. CUST. : DOC. NO. D11-001-01-03
+CHD. AMS : SHEET : 01 OF 04 PAGE NO.
+
+
+--- PAGE 50 ---
+rn ie a a = fra = ¥ i’ - —— CU 7 ——s >: :
+- a] _* . 7 SSS - j
+- " “ I . . ‘ : - .
+I 7 . = a ~ a . .
+x - v t ‘ # . a:
+. = wha = a a J -
+: ‘7 a ' 7 : Was Em - a tr : ae i
+7 : 7 - a P :
+J hy
+~ 7 “” : = ra x
+¥ = . “ - a
+7 a -
+. . :
+;
+Fe
+a
+‘
+F : . -
+. ‘
+- - :
+; 2. -
+- ; h
+‘ ; =
+‘
+h 7 -
+; - - -
+F a . ns ; - - : \
+- a |
+" . we oe : : .
+a . a - Lb P a
+; . -
+- J . . - E
+7 - 7 4 i? . _ a P
+5 bed - .
+- . 1]
+; 7 -
+- :
+.» * i"
+«™ - i . H
+7 baa i é i al
+aa 7 — o> * * , jn * - ;
+. ou - . - = bd 7 = .
+7 ‘ '
+ce “— 7 . 7 - is
+’ -
+: ; - : 7 |
+2 . . : : i |
+; - -
+Fi - =, * i‘ : “ .*
+- ; ; _ : ; ; i
+' : ; -
+- . ‘ |
+© - 5 5 : . /
+- - . Fi z= - - . Ld -
+; H
+if
+. ls
+,
+i
+hh
+, J - 7 7 I - I v . [ i ‘
+om , - . P P ' '
+é = « - - 7 : - - z
+: - - :
+ge Fa 7 a sa - : r
+I “ ¥ - . ? " i
+. - ® 2 : : . “a
+a - - _3 sd }
+: - : re :
+- ‘
+d a « ba . be a t
+- ‘ i Lb : i -« |
+L : -
+7 * 7 = 7 =P. , 7 . . r
+a , 1 F - - ‘ i
+a - 7 & .- ' .
+cK ; 7 7 : : J af
+= . : - _"* ‘
+- Ps ; - - -. - a 7. Py P - :
+- . / -
+F 7 : : a
+x 7 ® . . . f
+ia A : 7 - Py i |
+. i - 7 " ' : .
+= & = ‘
+5 - 1
+a ' . 7 - 1
+*: 7 7 i ' ‘J / - ¥ iL
+=o he : ° : 7 ‘ A
+iad “= eo = = _ 3 .
+az J ‘ : ; i 7
+. . © . bay - ® - ;
+- :
+- z : 7
+:
+. - '
+. # .
+: : - “4,
+“Ds ; ;
+- rt
+i 4 oo a
+F
+Di {
+7 :
+= '
+a. - '
+
+
+--- PAGE 51 ---
+_”"* TEST CHART MCV400
+. 8 5? A ivi S FOR VERTICAL MACHINING CENTER
+: GEOMETRICAL ACCURACY TESTS M11
+) All measurements in mm
+| SL. Description of the test Figure Tolsrnine
+GS Squareness of the Spindle 7 0.020 for 300
+axis to the table surface az swing diameter
+in the XZ plane. X & Y a
+| axes at their mid stroke at a =
+er Squareness of the Spindle 0.02 for 300
+i va axis to the table surface in oC 90° | swing diameter
+d the YZ plane. X & Y axes I. 0C<90°
+at their mid stroke wh bb 0. 009
+| G7 Run out of spindle taper a) 0.01 near the a 7.003
+a) Near the Spindle nose spindle nose
+| b) At a distance of 300 ; | . gah
+from the spindle nose wal b) 0.02 atadist. | b.C&
+j bo of 300mm. 0.@ 6S”
+a
+G8 Parallelism of spindle ‘a: Ad a) 0.020/300 a. ©-0042
+| Axis & Z-axis in WL Ae
+a) XZ plane ma 7
+| b) YZ plane ku T b) 0.020/300 b. 0 003
+to be checked at mean Lilt -
+7 point of runout a =
+| DATE: CHD..CUST. : AMD. DT. : DOC. NO. D1 1-001-01-03
+Z CHD. AMS : SHEET : 02 OF 04 PAGE NO. F3
+
+
+--- PAGE 52 ---
+a a OT ee ss = = a a
+; -"* oP = = s- a oe = ee eee sere ere is ec ee ho * a an
+fy "4 7 a t ‘ 1 ria®™ eo = - a "PF o = a
+i 1 a =e at 4 Z - = I iF : u - - «
+_ = - i 7 ‘= =i a - or re 7 wy fos F = Oo - 7 a 1]
+* Ft ‘a im 0 t= —. 4 a = 7 = ax, **™ 5 4 . t | : == if
+7 =. LJ 4 7 ™_ ~ . _ == 4 *5 he! - = ™ Pal F
+=-_ = Ite = =—_ == & ; ._— = = - * - a =". i] x ;
+a7 I | 2 -, 4 = '——
+a = - rp a * 4 =! *F . a I - a 1 a o ~~ : ; ’
+OO : 2 - | . | Pal i
+i + a - a = 5% it PI La 7 1 a a a 7" 7 bl =
+7 P ' ; ; 7 ‘ oo -
+- - = = 7 4
+; 7 = . FF = - :
+x 7)
+» ™ . a > = 1 = i
+. = oa ™ L
+=< —“—— i) ~ 7 7 - - a i
+bal ; -~_, ! '. : = ‘i. a ' }
+- | = cm . - 7 1 = - f
+- 2 "™ H =. =i na _ =
+- =, - 7 . i. . i - ji ;
+= oe = J = = _ : = = -
+a al ™ I _ © ue
+a 7 7 » | = f -
+FOS ee 7 : 7 7 - 7 ; - = «i ;
+- == . = _ - i » = 7
+a7 i, . saa. - -"= ¢, 7 Pal
+a . = = § a =i =“ - i 7 = =A - i- = 4 - el
+_-* - a * r= =F 1 I 7 al a = ; '
+_ Pt - I ~ i Z 7 7 ¥ -
+= s 5 . * — Wi _ -— = a = =
+1 ; mye ™ ‘- *-- i, ne - eee Ng
+- _ © . 7 - = , * ; ; = 7 7 - toa “I, 5
+5 F - = _ i i} ;
+- ; - : = i
+I .* i
+; oo - . ;
+; - ™ = = - - I _" - - ;
+= = - = 5 i = Pa
+i=“ . ' 4 : 17 - - 7 1” a = | - : “te [
+ed : = = - - . ed - = -
+Too, st Bm Te ke te . «am es -- ° - « f
+“1 3 =. _* ; - “he <—* 7 _! : . = 7
+a = “ * Pa = 5 =F ia = = = I - ‘s = 4 51} = a i i y.
+“1 * a ., = i". 7 7 - = a 4 :
+._*= - . = '. 7 = | a - = ba HY
+| = = — * ft ® 1 «= - Oo 1° * = ;
+ot = = a =. ' ;
+» 4 - .-=:* = ; - a
+. - 1 - 7 ;
+Ma “ls . “13 _ ae > ; : ; ; - : : - i
+. - . =| - - © 7 1 wt - < - 7 - 7 |
+_ 1 a - 5 me Fa ~ 8 “= a= , wf “=
+= Wa " - = a _ a A ;
+- = . Ps - . 1 =: - = « c ,
+‘1 - a - / = * ‘a q
+' . x =F i - -
+: = : ‘oa # _ = * i, ie :
+‘ ._* - -_ <= 1 = 7
+= a l - a a : = 2. 7 4 eu |
+_ 7 - 7 7 7 = 1 7 bs 7
+- = i . = « “, = ' :
+- oe 7 - - ‘ ; ; f
+- a
+LA - ." - - 4
+a = =
+1 = a © - / -
+a '_, = id 0 4 a *H 7 I 7 ee
++ 1 =. « . = x - i, - f - | i i -! - 4.
+r - - - 7 It @ _- > = - _ get
+a i = -_— 4 => : = ‘. = . ell om fs
+a - i : a a a 7 "= 1g q s  . T
+£ ; i . a “+ ; 1 ; x - a? 1 .*, | a -=, i ail = E
+‘ou 1 cut = = ¥ oe we mae 2 BH 7 _ 7
+= 7. «=! ims, 4 og ! m= ~ 4 : - . —_ = : :
+ss" a - pcos - as 1 i” id iv - a oi" , * «= ° . ; “~. 1 WJ
+_ we 7 re . a - », = ri F - - ay 7 -
+; 2 r” * » , - . "27 - } He, ie - sere = Fi
+; = . ' - + = = r i - en a - 4 _ i = Fi
+se - = ' a a i ; = = en 1
+-teS a : * = J I 7 Fs a . i= a 1 '
+= f ' 7 = ‘ L: = 1 - =f - ,- .7 a a :
+7 rr, '* 7 7 * *T 2 =, be . - 1” 7
+_ - = - - = I 7
+7 = ' - 7 LJ - n - hd i ;
+= = a . er ¢ - : - ra _® 5 -- =I = 1 7 ‘= -
+: - _ I 4 = “<= tl 7 = 7 4 :
+- _ "1 ; I I a6 i / i.
+we i L at = ; = an oo. =" 7 7 =I f
+' . = . 4. = “ ; . 7 .
+- = . ; .= ‘wa 2 =I" ; - |
+- » Gg. = « “a = = = r=. - = ™ «4
+1 a ; La 7 a = k& ot - 7 ; i = L 7 i H
+-* F — *., . @ = a — "1 r_
+. - + & a= “Ms = . sk LL - /% ros * B
+a : & » > at « x
+ie - 7 . ‘i. ; a eis - _*= . ]
+‘ 4 & _. 4 - = Je so i - a - yi
+- - = - * A =a os al ] ‘1 os - “ea i a . © < 7 it - Je ;
+: 7 “i 7 1 = - _ << “= = =.= .. a “ - 1 jy a
+i 7 is inf 1 ou — oo = E a ; F
+: “1 : » ist . : ; _. =, = J.
+. » = ome. - I
+7 w 7 » - u = 7 4
+7 « ; r 7 1 ti
+ba = . i] x ; . I wm 3G
+= “; | * 1” § &é
+- 7 7 ' I - un it
+= © Py +)
+- - i 4
+= i i . o. “ : F
++ + _ _ _ -
+. rn = I eq!
+_* - ‘ - . a)
+= = = 7 me =a f . = alls
+Ti i
+
+
+--- PAGE 53 ---
+See, wets fae a TT Pa IG TOPO Le ann ee pc oe do tha ttt 5 econ meee hth it ans Pe eer i STS 7 ep = a ao
+rod TEST CHART McV4
+yA NV IS FOR VERTICAL MACHINING CENTER CV400
+GEOMETRICAL ACCURACY TESTS Mil
+SL. Description of the test Figure
+) [Permissible [Actual
+G9 Squareness between table 0.03/460
+| surface & the spindle head | “ oo | 2|
+| along the Z-axis in XZ plane or 00
+: Q ? Z
+-elb
+po
+|
+“G10 Squareness between table 0.03/460
+surface & the spindle head i
+along the Z-axis in YZ z | |
+: plane my
+iq +0.002.
+. 1 ee 8
+Gil Straightness of X-axis 0.01/500
+movement in XZ plane |
+| af
+o 8.00]
+|
+|
+| G12 Straightness of Y-axis c—] 0.01/415
+movement in YZ plane dl
+{FH 0.006
+1} —
+Soe -
+Pd
+>
+CHD. COST: DOG. NO. Di-001- 01-03
+CHD. AMS : SHEET : 03 OF 04 | PAGE NO.
+|
+b
+
+
+--- PAGE 54 ---
+Oo _— - "4 ; 13 an ; a e7 - _- -
+an =e Ha i 1 _ +. - Pie S& .ts I i i a IF fe a
+u Oo = = -_— ts -
+Py - I =I .= _ # 7 1 . -nl®
+.F i = - = ; FI 7 a” ; 1 ms = T - = « | : 7 7 l , i
+= _ =" » ot OO _- v= ~ J = . i” = *s = 4 ~- « ra ;
+= - I=” = - 1 ; ‘J m = = _t _ a = ' = Ts |
+" ~~ my = = *=4 “4 ‘1 = ~ = i i=.
+i i =I, 7 7 ain al oe : - 5
+a _* a _? 1a _ re. «=! - " i ; a, =
+- - i ft = =. ib = ; -
+= - - =I - = 1 6
+: ot _ _,! b 7 F 7 = . = Oo
+/ i : ' - :
+= ' r ' : Oe : 7 7 ' : = . ca
+; ; . : . - =
+4 - = = i
+= pees 15 fe = ows. Ss = oc ” @ Ff & i 5 - |
+, - = 1 = — i I ; .
+- = af = 4" - 7 r —_ ! = , - = i i
+. = 7% 1 - i, - - _ OS rf Oo
+- - > I hoe “7. k . oo F - 7
+i a ; 1 - ee = * J I - w,
+-™ = a “I ee “i ; OO =
+. - F Z aa >! F -* 54, = - = |
+~" , Oo _'* ow =a. u fest , == a = = = “, = :
+: - - a of =~ ot a i*. a- “5 _’ 3 i a_i
+: i= 1 — 1 a = “on oe =. I 7 = ;
+; i ; - - 1 - - - - -
+—_ 7 - "* |
+- i 7 i‘ I i‘ - . 7 - ;
+- 7 7 i —= I ' I . , = I a
+= = 3= = 7 = FS ==
+- - % ._ i+ fons - - Fe 7
+i i 7 a ' ‘: 5 - i oO ya 4 : to onat i ry
+Sy Fete ; 7, Ew = "es ab
+1 = + - 1 a, = f 7
+= ", os oe Ly nl Py i a = Ie =F, = =4_ 1 f= « La ' 7 y : wT. |
+pe - - I 1” eo 7 Sp “gu 4 "= = - ; * Ss
+i k_ . = - : _ !
+a ai - = ° ‘ i = & ry
+i - ; _- ~*~ . =o - — 717! w - ~#* il bE . 1
+- - - ' 14 tie ; :
+. = = « oo" oe 7
+7 I x
+L ; . . ] 7 af = = i *, ry
+=. I - ; ' » aa iJ am a 1 - - 7 “ * «18 _ >a, | a wet a)
+PJ _! -_= . - = 7 * -." I =_ Ff L -
+- — ou | ‘ ' - " la a a - “ i
+~ ; ' <4" - -* Oe - ; - - |
+P = 7 - a - - 7 7 '
+» %7" Oo - s ™= 0, am vs, "|
+- - i a *- Oo 7 rl i ;
+r 1” rl - I = i! :- = 7 i
+. it .
+i a - -
+> - - oe - ; = ' = = F
+= - i
+. 7 - _ i
+~_ - ~- . ih a - = 7 7 - , : |
+é - ~ 9 o = = - » = | wa = s 2 - ti
+; _*, - : * - £ 1 oF
+- "J I I al « = I A TT ia I — go. |
+— ss em _ = sa 4! = = — La I 1.
+- —_ = i- a » = - f- z 1 = @= 7 = 4 : I
+. . ¥ a i: on :u = =, =“ = - 7 a - _! a ;
+- . Log - ia, ‘ uo é . i] Ld - - = "i wl = |
+F ' c “Es Ls ; 7 i 7 - - = = - > i 7 I - - ; -
+. * - a i aa - — _ : ; i _* - H == ,
+a i -— > e ==, et ote fa RE TH
+“=e, . %' =" = =s = = "=. 2 = + i x . -
+I Ri =" 4 - a - Oo = 7 7 ; Pe Pun=i - 4
+: 4 - oO A = = =. ol =" ' Se Oo L.”
+; e = I a . La a Ns
+“= 7 * 0»? 1« == = & Se, eh ee 7 i" =F = we - =
+_* 7 = =i . se *= = ' « r= a 7 . - ca : ; a ; es |
+= . - i] a
+7 = = * 4 ' oI” 12 I rl I = £1
+- - i “a = a i” i . = — :
+= I 7 ._1= « =r . 71, 7
+> _ + = - - a 4 7  « 7
+= - - / ; - @ iy - E z iy - -
+. i a7 i] -— - _ = I, = a = ; :
+° 7 a yy! fo - 7 8 =: * _ - i = we! , He 1 i
+“eo a i! i : a oO = » * = rf na oon r “|
+=. # = By = * - a —=— = . — =
+= a . a - ._* x 7 . I —_! i
+i = = a = = a i
+a. oe a Oo a _ = i” =.s = = ns |
+=I _ ££ 7 I i= = LJ = = - I - - “ I 4 - - = = _“
+lus - 1.- =a EK yo. Me : = Pa a =): = -* &
+a - rr A, ia = i . 4 Oo 7 I Fi >. = a :
+= I 7 = 1 = I . oe Or oe =_ FF =— Fee i” - H
+- en - 1» & . = , r . it
+' - - = i} - =» ; = an . n= i id - ’
+i a }
+7 u —_ - ; ti
+‘
+; I I - - fh r
+i LL I oan 7 = - me |
+i - “ = % = - » h
+- - = a, = = 1_ _ = ' i ; - , f
+- 1" ( Oo - - I ne iy.
+' » i ‘ i
+i La I ee
+= I La - 4 iil),
+, = i: ar
+
+
+--- PAGE 55 ---
+Jove! , TEST CHART MCV4
+
+| Al "1 | S FOR VERTICAL MACHINING CENTER 00
+
+/ GEOMETRICAL ACCURACY TESTS Mii
+
+SL. Description of the test Figure
+3 G13 Squareness of Y-axis MEASURE READING 0.02/460
+
+movement w.r.t. X-axis 1
+
+; movement al
+
+CUBE SIDE
+
+a CHD. CUST. : AMD. DT. : DOC. NO. D11-001-01-03
+
+" CHD. AMS : SHEET : 04 OF 04 PAGE NO.
+
+
+--- PAGE 56 ---
+|
+
+
+--- PAGE 57 ---
+| | ACE MANUFACTURING SYSTEMS LTD., AMS
+: DESPATCH TTIME CHECKING
+
+: GEOMETRICAL TEST CHART
+
+> PrRopucT : VMCG
+| MODEL NO.: MCV-400 Wo
+MACHINE NO.  M11-467 WO
+—|@ = CUSTOMER: ACUTECH
+noTE © Qeharmn Reading ia MOR
+
+| Thos Crormetion Croan Ree ys Tad: Chek
+
+
+--- PAGE 58 ---
+_ . ee es rT - Fe a 9 = ae ee eee ees = ee ee ee es — -_ ce =a m=
+I = = a
+i ’ Ht
+4” a - La lal = a
+1 on’ I - - La
+. - 1 ia _ |
+i
+2 ' F - a Is “7 " Fe K
+vu = * = . aS . ; ._r 7 - n- - - I - ;
+- I abe I i * ell ' =_ = : 7 - i)
+os Oo “oh. I. . =. 1 1m, —1 _— * Fi- i
+fans - - - sf - I=. 1 ; : - 7 - a ns
+= - > A 1, a a . » © a a a . - - ; : I :
+| . =e == 7 / . s e ; = 7! a roi 7 s , =I =. - - @ = i
+7 ia - = i - en 7
+-. = |= = * nn ; + - - =" 7 a OO : e xa “4D - i
+: 7 7 . ; - : = . ' E or = 7 ; * ‘™ -_ - a 7
+; =" = ; - 85 . ; - “T
+< as Oo - r a - - 7 l-a-7-" i] - » 2 : ; - I. “= ,* ; i
+e. ~' - ey : . - . - - - room F - ‘ - at 7
+- . : 7 x i <= . -
+" ® | = __f1 - = 4 = = I = ; = J: = wa F
+a oa = ; 7 - - 7 1 a -
+IF Ly "= =
+aI = : =I i =. o i
+= Ht I - . Ps i - ji = : f = 5
+= , - ' _ = i .! ' =
+= = ; = = == « as ‘i - : ewer. == - :_ . i - “=
+J - = = + «ta, - = a r. 7 ; = 1 = --
+- : =. dé co : . : = 1 - = ; = & e i on = |
+1 _ I “4 - "4s — 7 =. I a 2 . -
+F - i = st * = . / - = :
+- “wh ~- Se, 7 == —- I 7 - =" == . ™ § =—
+-*t = . a - OO = - nr ~- .-€- '= 7 3
+1 tL ;
+= =I. » 9 === * - = = iy
+be i = 1 i : = - a” fF
+és ba - - =) i 7 - ' - —_ ' - : ;
+. f += Pi a = ' t= - I Ay i= = a =|
+— #1: : . . ; - ; - . = ; :
+= : ; oe ; 7 - - _ “4 —  e i * i oO
+; ; - 7 a “= - - - ' ce - - "| _ a a }
+I . i / ™ - tl, / - a = 7 '
+-« ‘ou x= = J = ' a = is
+Lal al LJ a =
+mr . z, i - i” ‘ ; a - - = » = +}
+7 fal ; 7 “
+' ' aa I - “= - ‘ i -
+‘i, = o= «ap Me 7 + a = b =:”~ Ly - oo ro
+oe ; ; = s = - J I =
+=I 7 il I= I = 7 = 1 Fi = ;
+= s -=_= Le ' - - .. I i
+- 1. wi — - ¥ : ' I a ' on - tt ne = ; ' -
+= 3 . = = - - i = ~ * it — ]
+- “<a ; | oe x ._' =- == 1
+a = I ‘ = hi
+= -"™t = or . « a > = A it i
+; =, - In ot — - ; © - an % - -
+it ia 4 =" = ww - 1 “ - —_ - i] i oe 1” an 7 Is
+I = = ; = e :
+= = - . = “ =. i
+7 I fe le 7 ; 7 al 1 * f
+. ." 1 - a I ] -* 1
+= + | - 1 z = = ; * . a it = i] = & 7
+a. be vhs = 2 * = *- . ,*= 7 - a I a al tel i] - - L
+25 H i = = = ' i
+= : r= : = = |
+7 = = fh f
+- . fi
+- “ I |
+» a =. - " . :
+; 7 7 ". =F oe z - bd a = -_ = =_ 7
+Oo vio 7 = | ; == - 7 i 1. ‘
+7 | as = - ; . ! = 7 - ' I i :
+" a a a = - * = -i
+; - ; = a i = 1 ia = i b
+7 a 7 oe = 7 » a . -
+»_ = = - a ham 7 > * it =_ a - -
+i Ey 5 I - - 5 a 1 ” a = a
+- 5 Al - = ._ FA = r= — 7 . 7 bl = It =) = ff
+s . 7 Fi 2 4 4 = so 7 s = ss = _ *
+er, oe" a ~ al 1 1 eu i + = ' 15> 57h es If
+_~ ; - - 4-1 = 7 a : . , > ' pen 7 - 4
+» ih i ; , = . - i . * «a, Ps ss . = 7 |
+= ¥ i a*) * = a ' 7 ; if
+i” = - |
+. = = 1 i.
+_ ah = .* it Ld = - a . = tl. a = _ LJ LJ Ld
+“1 .- <= _ = 4 = . 3
+- er - = - ; == - 4 i. = =!
+t a 7 ' Fr
+. . , = _ |
+| . be
+; 1
+- = @ :
+4 a Lj LJ - » “
+k = a * - i
+’ . |
+- i
+om
+
+
+--- PAGE 59 ---
+Lo) TEST CHART MCV-400
+j FOR VERTICAL MACHINING CENTER
+
+| \/ 6°
+
+| GEOMETRICAL ACCURACY TESTS M11~—460+4
+| SL. Description of the test Figure
+| Gl Levelling of Machine al ) 0.04/m along Level along
+
+X & Y axes at their l X & Y axes. X-axis :
+
+mid stroke — q “i 0.01
+
+| DE] 0.01
+; _ 4 Level along
+
+| G2| Parallelism of table surface a: 0.025/600 0.006
+
+° w.r.t. its Guideways or a
+
+X-axis movement n 0.006
+
+i ’
+
+G3 Parallelism of table surface _ 0.02/415 0.008
+
+Z w.r.t. Y-axis Guideways —
+
+: or Y-axis movement
+
+pb 0.005
+
+; j 0.005
+
+4 G4 Parallelism of reference ka 0.025/600
+
+g T-slot to X-axis movement |
+
+j DATE: 28-05-09} CHD. CUST. Ao | AMD. DT. : DOC. NO. D11-001-01-03
+
+| CHD. AMS : SHEET : 02 OF 05 PAGE NO.
+.
+
+
+--- PAGE 60 ---
+ra — © FF. a zz at ? i a i = a = = a=, a iow UF cs ~~ a
+x « -
+_ I
+a -_ z
+; _! * "
+- a i . , i. - o
+‘ag r - I 7 -
+= i 7 =
+= - - 7
+= : I _ & - - a 7 1, i _ / - al
+o--= = >*=  #- “= “1 “ i SS ts av: : ‘ate st
+7 r. - = - = | I | + I '
+= . - - oa 7" =a ft i * - ,' = I a -
+= i. f i = - = 1 “a 7 = r a
+. & = - ine : : Oo = * 4
+- i Pl 7 7 = = 7 = -* ” | f i
+ao l- I od ie . - aoe % a fa) : oe
+7 *. | i = 4 = - = I =F: = o ; «* aM “fe = * - Lae
+» a : 5 4 = - =? ; i / : = \
+l tT. ; — ne ; = a ; i I “ = I i
+7 “3, : - . = ' .. = t - pi
+‘a 7 =4 ; a i* a ; = ; . i ,7 nm a
+= sw = = - . * ; a a = ; 7 i - a
+a . 7 + ad 7 7 —— i, i
+. r oe oe 4 I - =a I i
+, ee - ' 4. ~" a «- - s fie ‘ i” . 1 * Y
+a =, - " >| . 7 = ,! , ,! ie ih 4 ame. 1
+=5 = z - , » r
+al - ¥ r ‘+ = * = r i - = = |
+1 . = a 7 _ }
+= -= = u =. - = - f i a
+-. “l -, a”. A - : - - t= i. Am =f. = I - i
+i 7 = 4
+u 7 ', 7 = OI
+ret oo . ' _ mle fa ; u — Bw gg ; 7 '
+i | = - . *= PI a = = x . -
+- i y = - a ; 7 I Fa A - 1ny
+a = ms * = — 1 4
+I , > =. an = _ * 7 ' I I « ’
+- - = = i . - I 4 Hl i< - as a =)
+“ ._ = fr . = 4 — i 7 1 ; a! 7 i -— =; rl at
+I _f ne - - a = * - ™ i i
+= I= = = §& : PL 7
+' * ' - ‘= - ah.
+Oo 1» - - : - I 1,= * | ': - 5 a
+=a - 7. - & 7 hI =
+: = . ; 7 by oe - a a ' '
+Oo 7 - f. => - - i ; e ; - an
+' - re ve 7 - _ - - -
+- ei -_ = : & 7 “. e) * Fr I ‘ne - - ry . -|
+= : 4 tk , = aati! a Le
+= = 1” - = ' - ' i - i i
+a a = T ; a. : 7 7 7 -. - - = 4
+_ “= ' = . re . « I « = a |
+7 -" - & ' I i a - ;
+I - = FT = I -.= ill _* = I - Pal A Li a i
+1» «> Oo OO wera: r 7 7 a . == 1 = > I
+4 . ' - * / - ' z I 7 Doo - ' -
+7 . - = 7 : = = ~ * x i . = 7
+: Oo - -. - ‘ I “ ry - == | i.
+=I, - _ => a=. '! - . sy Ls 7 - i _ | ;
+- “te ; a . * Oo - *, 7 - m4 “Fe. _—s | ‘a. - a= =: a
+in a 7 7 . =. ; = i
+7 = i “? L. . -« I a F oe = -= 1
+; - = = - ' ' ; si! ; ee ."s 1 =I 1 ti
+a . x " i . @ |
+4 = ; = / ; i E
+io Pi 1 - | - 7 7 hal , "=f i 1 t
+.o4 on ; a .'- - oe . - Oo ‘. re - »
+= a. ~~. 4 ec. ; 1 ¢ |
+' a . - = «* - = — ;
+- - - ug -
+7 7 I. 7 ; ;
+Fi I 4 i= z 7 - 5 :
+- - i 5 - - nH - .
+7 I - - 1 * - - r= 7 - I ; —
+rl r = 7 p & = i - ‘ bl
+= - _ =f , i= - »
+I . C) : = = - I L] - Py - : _
+. -_—~ : ; - =! - 7 }
+In~=, =F 7 Oo I _ - a i - - - -
+- ; = r ™ - - I 4 3 «
+= . = I 7 a ous : = ; * a I
+- _ - = y* PL . at - .-” ;
+; = =f ” a 7 : » 7 ; ; =s4= 5 - 7
+i =7 , - =o & =I =I - wa- ' . . 7 - py . B
+- i] "= Ls 4 7 oe .7 _ al | 7 a = - ; 7 i= u t 1
+= - ; =i - &- = s” : = ~ emt |
+. ; Oo 1” oat . = - =. & =o =, - 1 a." - . “h
+- es i = H
+- - 7 « . , . = i
+- =e. I 7 - |
+i i
+- 7 - if
+- i : = . |
+- - 7 : ig ao - 1
+- . 7 i }
+’ -
+eye a >
+- I : h
+a a : a es a iy a a
+
+
+--- PAGE 61 ---
+a PTE Tee? ORT! | beri eee a a eres anelR EE eoOO
+| TEST CHART
+e MCV-400
+FOR VERTICAL MACHINING CENTER
+| GEOMETRICAL ACCURACY TESTS M1 1- Act
+[Sie] Pesenption of thetes sane
+Squareness of the Spindle — 0.020 for 300
+i axis to the table surface TT: swing diameter
+i in the XZ plane. X & Y ;
+‘eine Mid 0.006
+axes at their mid stroke a emai b
+al
+; 6 Squareness of the Spindle 0.02 for 300
+j axis to the table surface in 0C<90° | swing diameter
+d the YZ plane. X & Y axes iH 0C<90°
+4 at their mid stroke
+a@ @ 0.008
+G7 Run out of spindle taper a) 0.01 near the a. 0.002
+a) Near the Spindle nose spindle nose
+: b) At a distance of 300 a |
+A from the spindle nose ~ Hl b) 0.02 at a dist. b. 0.004
+Z bo of 300mm.
+| G8 Parallelism of spindle ‘a _ a) 0.020/300 a. 0.002
+Axis & Z-axis in a!
+| a) XZ plane as -@
+| b) YZ plane i | b) 0.020/300 b. 0.003
+A to be checked at mean Lat
+Zs point of runout Se"
+, DATE: 28-05-09} CHD. CUST. ¢- AMD. DT. : DOC. NO. D11-001-01-03
+CHD. AMS : SHEET : 03 OF 05 PAGE NO.
+
+
+--- PAGE 62 ---
+: = ‘-_ = _ Se as a =_—* “tet Ee
+. * ie - -— a OO ns — fC. le
+= k _
+- \ - ' i - ;
+- = . ; © t i
+= J . b » Sey —c™ . a
+- a - i , oem, ;
+» « i La : _ 7 a a !
+9 Se— oe 7 a - Fi
+- = 7 . 7 5, 1 . I wl I - =f ui
+f.- = .*, ; ee ; >.
+a 7 - = st “. i HX "so A ‘.™ . a "oe
+x =! [ose 1 Ié is = - = * - = af
+5 F *” 5 - i cd i = 1” - - i
+“he = = & i a - F ; * Oo ' n |
+‘oi =« ; mae a i oe oo = - rs ; 1” - =- * ; 7
+' i 1 “Mis ry = 7 ' 7 = “eo Ig « i el le J ;
+= = b= = = - an fT * =" -— . we === 7 . @", -
+| _ a¢ r —_ or _~a 1 a iw
+aoe - > =! s =e = fi! > ; a t - - ‘| - os .
+; : = 7 "= * « - ey = _ * a
+= - 7 = 7 a 8 gy! Lk - oak = c, =
+- 1” 7 ai . 5 - - - - 1 - -
+Is = ns = Li = a i= . = 5 = 1
+* 1 1 7 _o. - ; I 7” - «ct = - - a ‘eo = ;
+: - om -_f - **. | 7 7 -
+- x “ hd [ 7 i
+; _1 “1 .¥ ao I “i 4 ; - ’ - . l , 4 “1
+=. = V. i= ‘1.57. |= 2. cs 49 - .! - :
+= - -=* = yo 1 ¢ .h! = -_ =" i . .* 7
+7 / / -= * - a & -
+“1 ren ae - a - Pa - 7 ‘os 7 -
+a * be, , w= "rr = 7 “ oe 7 - -_- 1
+"- 2 ' a. - _* _ | a - ; 5 - i ‘
+© 7 == & *y “mw Bae ‘, . "=" 5 ‘wa : ar =, "=,! =
+' Ar i c : = ' ' . 7 j
+1 tt - : moe . as =F = 7 ut =f er 7 i
+, " » - ier lt a, » re” = ‘ioe |= L = os ' a I = - f
+i F “ a “1 "/ “5 6 Z 1* I = an |
+a - 7 - MT oe . ", 7 4 - = |
+u © ane 7 oe - == I - 7 un + & - 4 ; a* ay a” a ; ="
++ e™ 8 oO bl -~. 7 - Bs. = = & 7
+- ion ©" = = = - : ( ;
+1s - .= == I I, li 7 _ if “_-= ;
+iu: = yc ol ws" s 7 4 a = JF : ;
+7 = + 7 I "=e - = 1 oe Oo = 7 ' - 7 I = i
+I iL = a. I 2 = i i i= ” sy © - iF * 7
+I ‘is 5 7 - - = ' - -
+a= o, a, - == or =, _ & . _= - -
+= = - E - - = i = 4 —
+= "=, =, 5, JE = = -= == Fy - = - == ‘a oe = «I e* I ; “5 i -
+; Beh WF efi = = 4 ; jo.
+a =. = P| 1s - =," '. FP ot ® *
+“= 5 I rf! » ' a! Ly _ 1 ~ 7 = =, -" 1 = ™ 7 i] s -
+' t= i 1 - ” » aw -_F r - t - ' - - a 4
+5 .™% _ # = . ee - = = ¢,™._- - - a 1 Wd
+oe = - aa®™ - ; 7 I " = - ual Hj “ _ — 1. > i | - I - :
+= « a Fe tary TG = a =.= oF = 1 :
+ae % =" 1 a , 7 eis" 4 =o. ee =~ | oa SO
+. = 4 7 in 1. = - a i . ' a = ‘. a a J ; \
+~ « »” fs I : a I _ = wt Oo x - : -
+7 - _—_ 7 7 : 7 eo . “ts = _« - » ¢ -. -
+1 1 pa oO - “es _ vite *% 2 ;
+= = =. § == bp" iu ") se - 7.
+a - - ; Oo / - 7
+7 : 1 = 7 7 ae -. Jt f
++ ' = .! - ' . 7 = —_ * ;
+7 # ; : oo i, i 4
+= « a oy a = ia . = - = a i]
+wot eT, Ct r - at / a? - Z I
+ry = = = it” © = 1 ~ i Oo 7 a oo -= -
+s -* * =- 1) - = I =f _ i¢- - = sas ‘=
+=< oS _ 7 * A > ue = _ a: x ; Lm .~a * 7
+- / - - - - 7 “,r* me |
+a al - ' oO = i ry 1
+2 vt 4 - -
+— | all - 7 7 » T,
+= = as I : a é
+} - L=.e - iy. i" I - z F a a 7 7
+i - - - - ‘x - o- = : a= === ~"! -
+pt a ‘ff, = * = = * ‘ F ua :
+= |= - - = wei 1” Ps i 7 = i : a - ee
+- = ="5 = * = _ 7 + ; -
+a ' = = 6 b = ew 1 [
+= _ _ a / = " y
+- I ee “@
+- s * . ; 7 7 “1 2 i = =s I OO - ; 7 ;
+a _ I - ra
+= _=— 8 ; 7 7 eo = 7" Oo rT “= * a I - — "it
+_ kee =" . = si — . 7 Py * Woe - a | -# -i-
+Se oe a - - - , “F . I a = ® I =. 4 1
+' i - - 2 _— 7 : -
+. . ; ' _ a _' = . 1. + _ ¢ » ie - i i
+bel - we - t - x = = an] a
+5 I ' -
+= : 7 I - : 5
+= ’ . 7 ' - E
+I v= =e a : = - oo - ' -
+se = a | = a - = 5* a = ye, all '
+7 = ™ 7 = 7 == i -* ' 7
+=~ 7 es i= an a - : “i i, 5 7 I
+- i - - =; 4 - !', 7 E
+- 1 ot - . - hs
+i = * - a a (if 7
+a i
+I = | -
+> = f
+= * ee 4 7 + H
+i : 1 7
+[ ot * 1 6 = ;
+- . = 1 Oe Sy. ;
+I -_ 7 = - - ‘ “==
+7 - >t “ . - ; 7 t
+. a i = =
+= - rs
+Soe oye ms hCU 7
+
+
+--- PAGE 63 ---
+me TEST CHART MCV-400
+_ VANS FOR VERTICAL MACHINING CENTER
+| GEOMETRICAL ACCURACY TESTS Mi1ii1i- Af +
+| SL. Description of the test Figure
+| [re
+| G9 Squareness between table 0.03/460 0.005
+
+surface & the spindle head | *<% | z|
+
+along the Z-axis in XZ plane oy [Gorreeted-paramet
+
+@)
+| 210|  Squareness between table : : 0.03/460
+surface & the spindle head i 0.008
+| along the Z-axis in YZ Zz | |
+| plane rT F -
+| ij
+4
+| G11] Straightness of X-axis 0.01/500
+, movement in XZ plane | 0.002
+rai
+oo oS, ,
+| a, ||
+| G12 Straightness of Y-axis | 0.01/415 0.002
+movement in YZ plane rey
+= ;
+: 7)
+a
+| :
+|
+|
+| DATE: 28-05-09} CHD. CUST. : V/ AMD. DT. : DOC. NO. D11-001-01-03
+| LAQNS
+—
+
+CHD. AMS : SHEET : 04 OF 05 PAGE NO.
+
+
+--- PAGE 64 ---
+»” > * * a es * fF > = tl i Fi r
+. » & = 4 ®
+: }
+- oe
+we - .
+F - ig j
+.
+:
+‘ - &
+"I - bes - = ;
+. bed -
+- = - - .
+; = . ; 7
+7
+- - # = - e - a :
+7 -
+5 . 7 - '
+* = . - !
+. - - = - 7 a - « = " J
+. . . .
+. 7 - . - -
+- s ’
+E . i: = - 7 / = cy bad
+= vi - i
+- « - i
+- « <a - 7
+. = 7 7 - q
+- - : a fd sl .
+/ 4
+1
+. = 7
+' - ‘
+7 ‘
+. - - P . .
+. - . / Py c
+7 : - 7 ; ; : F
+“ « 7 : wi :
+. F - - s F
+- ;
+J i ® - LJ / /
+; « Pi -
+.
+- = F
+’ 7 [
+- ;
+we
+7 .
+. : ;
+- .* - ® = " : * . . 7 - * . ;
+. J 7 . tj
+= 7 a ba - =
+. = - 7 a
+= . . - ' - a E
+' - 7 . 7
+‘ . al . ial
+; 7 ’
+- - - . = - = - i :
+- _ al / a 5 -
+5 a - - : . - f
+so nl 7 - 7
+- - - - ;
+» - LJ . » ;
+. . -
+; . « , ee J 7 “
+- - 7 7 _"-4 -
+* + / 7 - 7
+e . :
+- -
+. i - ;
+' ss 1.
+. ue . 1 ;
+.
+. . ! - - - c
+‘ - ~ - - “a -
+- ‘ = . J a be 7
+. “ \
+‘
+; .
+- 7 ;
+: , - ;
+- - . = = - - Z -
+a5 . - .
+" . ‘ F
+’ bs - he
+. - bes - ‘ -
+7 7 ;
+a = - 4 -
+= . "le
+. . =
+- a) - a - * » wf
+- " - - : - ;
+. : . 7 .
+7 . = .
+. " - z ji
+7 . / . -
+- - - ;
+- - - : i
+. - - 7 ei
+- - - >
+. ; . :
+. - . :
+;
+« x ‘
+t
+!
+f ; - 7
+7 if
+- i P i
+- -
+A
+7 . i li
+Hl)
+= i
+
+
+--- PAGE 65 ---
+OP M TEST CHART MCV-400
+
+. | W, S FOR VERTICAL MACHINING CENTER
+| GEOMETRICAL ACCURACY TESTS M11—-AGt+
+: SL. Description of the test Figure
+G13 Squareness of Y-axis MEASURE READING 0.02/460 0.007
+: movement w.r.t. X-axis 1
+2 movement al
+OIC
+. CUBE SIDE
+: T_T) rate
+; DATE: 28-05-09] CHD. CUST,-\ lwo AMD. DT. : DOC. NO. D11-001-01-03
+Wie h
+
+a
+
+. CHD. AMS : SHEET : 05 OF 05 | PAGENO.
+
+
+--- PAGE 66 ---
+°
+s
+“
+\
+'
+|
+
+
+--- PAGE 67 ---
+| ! .
+Vv y
+
+: = 3 g} Of BOOS
+
+: K = g | D| QuEXTIOTA
+
+— O 2 | Oo
+
+i t
+
+) Wo | Y 296 | © P
+
+1 9 <« O65 7 0)
+
+| & 2 -<¢2 @ 3
+
+0”) . 8909 uvgS2rmi!1oyr
+
+v 6 cro re} aNar (i gho
+
+_— ir One NL ENGONT THe
+
+; | = 3
+
+, 2 | oO
+
+, ou :
+
+7 - Ww 6 | Q 00
+
+: - 1 | 0 oO °
+aa Fp HONE AALS
+
+j Z yl € 6 | BETOSZzr a
+
+1 oo UI G oR HENQTN PTS
+
+g ¢ O |
+7 oo - @ OF E ~ O00 |
+
+| << Gis Yo 32 a oe
+
+: O f *& >? O “ Bee 6.
+
+4 , © ons { ; Oo 0 O Pa
+
+4 5S 2 2 So OOO :
+Z | Cc = ”) 0 0
+
+gq 2 = 42M ~ i o2aqa0aq00d€%H
+
+» © od @, & PygPEEE ¢
+
+» Of Gg BEX g FS oP Pleo
+
+— 2 5S 3 68H A OmeErFFF OE
+
+»- wW Z QQ Sax EF c85SG0RGS
+
+g 6 O8Go LOY Ss © ,
+a : wo Ese oUS sxe
+
+7 QQ Fedrsssuu
+|
+
+
+--- PAGE 68 ---
+— . --- - oo pe SS et oe ee
+:
+‘
+7 ae
+“ - ™
+'
+i: Lj Ld ‘.
+- « 2 - ~ « "= i
+H , H
+2
+- = oS . ae '
+- f ‘
+"i ‘
+J - - bd i . i s =
+- J J P - = . \ . ._" 4
+- 7 - Pe
+. ' / .
+' . - 7 . La i
+; -
+; - l
+- bd . = bd ,
+_ . - " - "= f
+a -
+« 7 ; -
+" r- 7 a
+; . = . - 1
+= = 5 - - . |
+x —_ f
+PI {
+- - -“ a . 7
+. é a ee ‘
+a - - . ri _
+. - 17 - - - ee =
+© . . - . : : ‘ - = |e
+% - ® - uf
+“ = va 7 -! . -
+. 7 - CT] .
+- - 7 - ® i: 7 a © © ° '
+*
+as i J = ® k
+7 - 1 ‘ - i . is . - - - 7
+. 7 - ae al 7 Ld fl
+-~- . = - ' 7 7 i
+a L ei ; E
+, a a - *
+a - . - « - -
+. : - 4
+|
+- -
+‘ “ : ‘ 1
+- . 7 7 - =
+= - 7 - a - - . L
+7 - " : ™ - '
+« 4
+Mf
+‘
+fi - - . - -
+¥ ‘ -
+- . s r LJ .- ' i
+: 1
+- - i
+i
+- oF 4
+- ” ; 3
+- I
+- i t
+; . u 7 ® !
+- : . - |
+- -
+- - a . . . ; - d
+®* .
+F
+Fi P
+w gf
+7 .
+r '
+7
+F
+- L
+- :
+wr np 7)
+
+
+--- PAGE 69 ---
+ra a |
+i & eo 3
+io => ! ‘ =
+~ 2 \ s 6 +
+: “ 4 H KC * oe|
+| | | a a | E ”) oI
+_ | ia a Doon!
+| @ \\ a . | |
+! f . S
+| \ ‘ / i o) -
+| y Jo on
+| : | oo ) |
+| a | r2G0
+, : fe : go 2 €)
+| Ee QoOE
+aN
+\ 7 \ ( i \ lo
+a s
+! ff z
+| . : 5
+= >>  g
+S OO _ So
+co aa + —
+£>r 0
+JOrL .
+tO7-U
+: ~ ‘I i t
+~ CStey
+Of oo,
+(SAJJOWIOLOILW) JOIIZI ~SOOG
+
+
+--- PAGE 70 ---
+=— cc: * = Le — * : 1 ~- & —_—=eeeeeeeser O TO eee ee CC . me =_— - = Wi a
+)
+%
+[ . “hey 4 - == 4 “8 = 2 - oO
+ve - I= ' ae * = A x
+be =" "y : oo « - F an - ‘, & — - r= =”
+a -a I =-_ * = = | aes ——_— = - : Oo
+i = 7 = I i I : re « y I= — = | : - . = 14
+7 . f 1 i rt = Oo : = ; 4 7
+= 7 ; os! - ' . “9 7 - . =F 7 7 1!
+- r= I al _= 1 _ " oe - » * am ol
+» a. ff * = ss as =! = = ;
+pt sia = i - - : a 5 ‘ ; - i 7 “1 7 ;
+i - 1 uv r= , _”* inn rl I =
+= 7 7 - ™ J ~ a > . .
+si 2 a 2 - . pie - - 7 i r.+ * . a . =
+7 4% . i - “,"™ - -" _. -_ ™ = “ - “ i= i H
+a” = - ; ; , . I _ Oo : I, H a i.
+= 14 = 1s . 4
+- = = en . = Z ” i = 1 I x
+i 2 == - i - Oo - ; - E LF = > oe -
+= F $4 = = i - ~ be - == = 1 7 = -
+a -
+: ‘ i ,._> = % -
+. “« . = - - = is 4
+. - cad = Ld _ =: = = a * 5 © ' i. “. a = i
+= = Lr = x . = — == “
+~~ tre, ee >, 0 aS : ; a -
+L_ = - = = . 1 i i - e= : ; «asm ad / a - :
+r i] a - 7 id _ = = = a! “i - Lal '
+vs . = ' i I . 7 = = a= = x
+1 x I ='* -% . . . = "ff . f
+e =i - 1 i! 7 = = = i - -
+- - i “ ® =. « I . ' an ' = i ;
+om . ;
+= ; = “|
+7 7 = So = _" 7 ;
+11 ' o My # u oo i = ; 1, I i - Oo “1 4 I «
+- - ' i - F 7 7 . = - a - ' ‘
+= “aot r = 7 - = ? ts "=e a q
+a P= 4! = =! i er a 7 «tt 7 a _ =. a - 1. F
+» @ . Pt, * = » Tt & I -@ wou i
+/ i » * a 77 4, 7 a. Sy vu rs" I =o t i
+=> i » “ - *. - 7 - 1. a=
+> - qs - ** Pa - ; '
+- F . . = _ = =? rl *.
+7 i .. "ia . . * Fr. ; . : 4 ; 1-! -
+_! fe . “ i= 1. so = ss = 7 i
+= - - = : +i = + _ a -
+- © © = = >= a E a! on = 7 ;
+I 7 r gts - * =," yf a : =- ins oe - a = i]
+Is -~ s i = ‘ =— = FF
+a = a ; 7 = = 7 La i] a = t 7
+- > - I - = iI ~= i+ ce - 1 oe ~-' | a
+I 1,1 - = SO — = 7 7 - =. . , 7 wo
+f i =« « « == ‘ Oo = -ae 2 _¥
+_ . 7 - L .s = - + iy
+1" - —— . yor = a. = tl
+- 7 7 ” 7 == .
+: + ; v : I
+f = - = » « P ; 2 - ; Oo - 7 ” = 1
+7 _s 7 . 7 3 fs =, =: ' ‘= i)
+= = = - = i Oo = a roy F =" |
+- = J," == + =", =* ; 1” «0% «= a “» =! 1, 1" = ~ - 7 a |
+4 we = ; . “ — .. * > ri oe :
+» =" - : ke 7 oe ; =. « ‘- “ae | ‘ a" 7 -
+7 ' I - = - - i 1
+- |
+. # - ae - - Iv « - : ;
+- 1, * = = - oo - ‘ ; =
+- * . . = = 7 - Do ll _ |
+a ; I ; - - i
+© - = . I “i :
+7 a = & : | : ' ' f
+> a ' == ir - ; 1 - - \
+- . z= i ‘. * = . % i _
+=,s § - a == 1 7 7 Oo _ - en (
+= = - = i= - = I 1, - i - - hs
+_ a : Oo i - i= vie : ~ = f =
+- i: : * = = * _ = = a ;
+- = i i eS < . * :
+7 ‘
+7 .
+7 = 1
+= ' " . . -™ * F “ “ c
+‘J a : “4 es -
+i - es - - 7 = 7
+<= - . ia + = : =- “ -
+: ; . i 4 ,
+= / / | - wm Tp
+7 :
+= _ = .
+-
+- » LJ
+= tJ
+= = - a i
+b - = = . IF
+7 a F
+7 = I an |
+Fs ~
+
+
+--- PAGE 71 ---
+|
+
+4 RENISHAW CALIBRATION INTERFEROMETER SYSTEM
+
+ALL DATA
+
+| Machine: NCV-400. Serial No:M11-467,
+
+Date:11:39 Feb 16 2009 By:QAS/SA.
+
+1 "axis: Location: AHS. .
+: TITLE: M/s. ACUTECH. Filename: M11-467-X1,RTL
+
+4 Units of data values are micrometres
+
+: Target 1 (+) ( 0.0000 millimetres)
+
+y 1) 0.0 2) 0.0 3) 0.0 4) 0.0
+: 5) 0.0
+
+4 Target 1 (-)
+
+: 1) 0.0 2) 0.0 3) 0.0 4) 0.0
+4 5) -1.0
+
+: Target 2 (+) ( 39.9990 millimetres)
+
+: wy 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+: Target 2 (-)
+
+! 1) -1.0 2) -1.0 3) -2.0 4) -2.0
+f 5) -2.0
+
+j Target 3 (+) ( 79,9980 millimetres)
+
+4 1) 0.0 2) 0.0 3) 0.0 4) 0.0
+7 Target «3 (-)
+
+4 1) 0.0 2) -1.0 3) -1.0 4) -1.0
+fs Target 4 (+) ( 119.9970 millimetres) .
+
+g 1) 0.0 2) 0.0 3) -1.0 4) -1.0
+Z 5) -1.0
+
+y Target 4 (-)
+
+Z 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+4 “~arget 5 (+) ( 159.9960 millimetres)
+
+4 “4 Y) +10 2) -1.0 3) -1.0 4) -1,0
+A Target 5 (-)
+
+3 1) -1.0 2) -1.0 3) -1.0 4) 1.0
+2 " qarget 6 (+) { 199.9950 millimetres)
+
+2 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+2 Target 6 (-) . ’
+g 1) -1.0 2) 1.0 3) -2.0 4) -2.0
+Z 5) -2.0
+
+3 . Target 7 (+) ( 239.9940 millimetres)
+
+A 1) -2.0 2) -2.0 3) -2.0 4) -2.0
+Z Target 7 (-)
+
+Z 1) -2.0 2) -2.0 3) -2.0 4) -3.0
+g . Target 8 (+) ( 279.9930 millimetres)
+
+a 1) -2.0 2) -2.0 3) -2.0 4) -2.0
+a
+
+
+--- PAGE 72 ---
+"ft a eens SUL CE = Ee UL ee —_— ses SS Se ee | Ble i | oi » fF «s 7
+“
+= -
+I - 7 \ I = 7 . = |
+i mae - =! i 7 = = I - - i I 7 = f
+= = = ‘ ew =
+ra a i ; I = . .
+A at hv " - o—— IM =." - : oe = = * 2 7 = 7
+- = * i ‘ = = a I . oO . “a7 _ = «
+,-*. ! OO _ 7 =" = =I a oO ; - - 7 =
+x = 48 Ps ‘ . yb I= i” ™ x - « -
+a wT = 4. =a = & 1 = = ' 7 = i
+oi” I is . 1 “= = 5 _ I = ==
+- D ae ea pe! =I, == i= : 7 1—_,- ew f* - = = * :
+: =" — - = + | - - ss : oe 7 ; i
+- as = - = a, a = - A ;
+i : : = - * i 7 i" a - a I - ; - u -
+> : %, a . - - = ef
+- .- : ; ot ea, ate - Oo .- J
+_ . * - = I = .
+— - . ia La = I a ' = a
+yy "= al i] = - < Pt -
+i ©
+. ‘| 4
+_ =. ty
+. a
+r= a "=% “: i —_— = = I nur! = :
+-_ 7 = a | i I a =F La =I z i
+. = % i _ - i = = = =
+* i —— . -_ @ - a ". : - = a = - sal ; i 2 |
+5 oe oO ; ‘i 5 1” i i= HI -_= 1 et
+4 - - — “" 2 - - '
+@ = - ;
+I a - 7 - * . =: 1
+- .¢ “ ms
+- . i
+= : a “ « Fa 1 oH "_ t =, 5 +
+- i » | iF
+- - «= = rk a = 1 == a < - ! I _
+— = = ; : - Ld - - 1 * - x a w “ 7
+_ _ i z = J aa =
+- I - a i - 7 = .
+a = 7 1 = a . *
+= = =, =. a ‘
+~ 7
++ - = i 5! - = a 7 = -
+= a a “ = _ -@ = 7
+5 =e y- “ =
+7 - : = = - =
+- - _ “ oo I 1 =. , ; -  .
+i - a - a_i @ i ' - rl a a « - _ *
+- I; - F -- * =". = i 7 - - : . 7 e
+1 = = F 7 a - = «<@ ia
+= . 1 = fo “ i = ;
+— =" = » 4 - 7 » 7
+“ as » " # ,- “ =" = = 7 "Ne “ “% 8 8 eh
+a = P I ane = 7 - . .
+& 7 ; 7 i , = i F "a8 = ‘ l=
+= a - - - - - 1
+3 7 + - - ro ! 7 7 -" “. =? 11 :
+x i = Jn - - ; "ot - 5.4
+ie = = i = - = : . 7 7
+x : "ok *
+= 7 7 ; - an a : _ a - . |
+7 = ix = - = = oe < 1 }
+x - ’ . . = 1 =: = 7 ro
+=. I 1 1, 3 = - fas - 7 Bs I |
+=== Io=e¢ I i . ait - - -- - tt : I *4
+= 7 7 - - » «@ = i : »* b “s Po ;
+= = = - -= . . = q
+: = - = a FG 7
+- oe '
+I - I *: F
+= « :
+1 7 =
+= b * »~ | ey - if
+7 I = = = Jt = 48
+: ' 7 |
+|
+. ty 7 _ =
+- : .
+- 7 ; F fl " ,
+an - Ly |
+Pa = ad “ . = ;
+: i= 7 7 - - Ir
+® . * i » 2 7
+1 = ’ - “8 -e = - A =f
+= 7 ; * . ; a - an!
+&
+I
+= a - 7
+- k La LJ
+id = i LJ - - * /
+- - F io ‘
+- ; -
+"
+> - Ld Ld
+- 7 m™ |,
+7 i 7
+- I - - = i = & ;
+if ' J ' _ nn
+: . - : . _ =
+= rT = / i
+s 7 - . -
+; = } . ;
+I E 7 a .
+« t - ;
+- - n = - - : - |
+= ’ I
+
+
+--- PAGE 73 ---
+~ i ram El ne eae 2 a Fy Ee le ee _ A eC
+| Target 8 (-)
+
+3 1) ~2.0 2) -2.0 3) -3.0 4) -3.0
+
+5) -3.0
+
+7 . Target 9 (+) ( 319.9920 millimetres)
+
+; 1) -3.0 2) -3.0 3) -3.0 4) -3.0
+
+5) -3.0
+
+} ‘Target 9 (-} |
+: 1) -3.0 2) -3.0 3) -3.0 4) -3.0 |
+: 5) -3.0
+
+: Target 10 (+) ( 359.9910 millimetres}
+
+: 1) -2.0 2) -2.0 3) -2.0 4) -2.0
+
+5) -2.0
+
+: Target 10 (-)
+
+3 1) -2.0 2) -2.0 3) -3.0 4) -3.0
+
+5) -3.0 :
+
+Target 11 (+) ( 399.9900 millimetres)
+
+| 1) -3.0 2) -3.0 3) -3.0 4) -3.0
+
+: 5) -3.0 ‘
+
+5 Target 11 (-)
+
+C) 1) -3.0 2) -3.0 3) -4.0 4) -4.0
+
+5) -4.0
+
+Target 12 (+) ( 439.9890 millimetres)
+
+| 1) -3.0 2) -4.0 3) -4.0 4) -4.0
+
+5) -4.0 .
+; Target 12 (-)
+
+; 1) -4.0 2) -4.0 3) -4.0 4) -4.0
+
+: 5) -4.0
+
+1" Garget 13 (+) { 479.9880 millimetres)
+
+: 1) -3.0 2) -3.0 3) 4.0 4) -4.0
+
+ia 5) -4.0
+
+g Target 13 (-}
+
+; 1) -4.0 2) -4.0 3) -3.0 4) -4.0
+
+5) -4.0
+
+! Target 14 (+) ( 519.9870 millimetres) ,
+: 1) -3.0 2) -4.0 3) -4.0 4) -4.0
+
+4 5) -4.0
+
+2 (“Tarset 14 {-)
+
+4 7 4) 4.0 2) -4.0 3) -3.0 4) -4.0
+
+3 Target 15 (+) ( 559.9860 millimetres)
+
+g 1) -4.0 2) -4.0 3) -4.0 A) -4.0
+
+: Target 15 (-)
+
+y 1) -4.0 2) -4.0 3) -4.0 4) -4.0
+
+A Target 16 (+) ( 599.9850 millimetres)
+
+4 1) -4.0 2) -4.0 3) -4.0 4) -4.0
+
+A Target 16 (-)
+
+z 1) -4.0 2) -4.0 3) -4.0 - 4) -5.0
+
+| 5) -5.0
+
+
+--- PAGE 74 ---
+mg a el nn ae ee Ll a
+“ : - a :
+i i - - mo
+- - J
+= e
++
+= ~ = . ' “ _ i - i
+= - = I “ F . 7 I Pid J a |
+
+ee Be as _ - ; wy SS oo .- r 7 5
+
+-a=, x4 -T ' -"_.,) ¢ = 1, r--! 4 - -, 44
+1. ™ * ,* a i I . . i I
+- 4 «= i. I - I ;
+. 7 7 ' i4% - = yl ' 7 - =" i
+& 7 . 5 . = _ = “we I - sl
+i . - =. = 4° «4 ’ - = Oo = *. * - ; = =* oe “ss. = £ f
+x I aJ of, . i n,, © «4 1t -*, “ I ny
+i . @ . = 7 i w os
+i = ; ' :_ = 7 i: ; I i - _ a e 7 i I 7 B
+
+i= - = = wi 5. ~ * » Th = =a = . - ; = oo.) - i
+
+>! = : - ied “u- == i ™ im [1 * . I "i.
+(i= - ™ = it I 7 ™ . ; “= I hs ; 7 i
+t* 8 - is - 1. - .) . = .="5 me & ee -
+
+- - = _ =« i = = : . * = I i: . ; - =! ig = e. © A
+= - = ; Oo = ial - J * Oo ; ” - 7
+‘ ="... =~ = , 1 a Ss ns y "
+
+ms, | - ‘ oe is Is - == =I |
+=" = Bib I 7 - 7 -_.: = » pe) = _
+a : : I 7: = - * -7 7 ; = . |
+: . oO oe =» 4 : . .
+Se 4 i I - ; = = = - “ - I = oe '
+7 7 [ oe 1” = = a
+=_- =-_—fF= = i -
+7 . a s* 8 = rn z " ; x 4
+- a 1, / 1” . - 1 Jn a - # . = . = sy
+; - - - a 1 * - ; 1 ss. -
+_. = - I ' a, % . . i “_ I * = f
+, | i - - i 4 1* = - I -! a= "Fa, an as . _- =
+- a” 7 © alle = & = «= “ i jie = i ” Oe = *
+= i = a - - - a i : - 1 2 7 = 1 i . 7
+a '? * a oO if
+i] =_ - wT 1 <i » . - f ;
+i Ai - re . 7 7 a . = . :
+; = Ll. = I Oo a . . 7 - - 7 - 7 ee |
+a | . fl 7 a - - _ - - ; _= 5 ey - :
+.~-* = =? 4 - Ic. o La 7 24 , * “= a= of i t
+= - il . Ig - - - / - i
+7. uu . en - = F = *"1 = . a : }
+= i. = ¥ " “ =
+
+= - = on 7 7 2. - : . ” = i = 4
+=—=" 7 -J 7 = *_ =. 7 I i 7 = s “he
+
+I OO I © 7 1 ¢ .
+
+" - i - ial at a ial = 1 “ * a - = =
+
+7 - Z  & - 7 ye == ; rl - A I
+a =| . a a" a . - oe . »! > oy
+a ¥ 4 at | ; - I
+2 . 4 1. i 1m cae : fi 4 .*# - - ==
+- - _ 1 . mM - —~ - - ae ; - ‘
+iT «J = . + - ' * “= ;° a a u - a] 3 |
+wi" « Sar 2 4 7," - = eeg: (= ="_ ! == * * ' . - re fF yes ;
+oO 1 7 . 7 « =
+= i = I “ ® = = * =
+ie : =~... — - oo ad = - ' a + rer.
+= a i= 7 i 1 j
+-_ ' .* “ - I ai
+a = - - 1 - & 1 '
+me 7 = 1 ft s - - t ;
+. - = - " - i S=' I - = # - ;
+
+I = Fi 7 f . !
+: = i = - * s i = 7 “ = ; 7 ' <= I i= -
+
+/ = - - -% , - = 7 _ =" =< : ; os 7 an |
+
+—_ 7 = f
+. a , 7
+
+" =) Us = - if i .
+‘ i ‘.- - = 6 : |
+“i . - 1 a * «I 1 = 7 7 a 4
+- - ; 7 7 |
+; : - I a.£-" = °- - -- -
+
+a J . 7 ] © “" /
+
+- Ht : - - _ * i la I = - i 7 ™ . oe -
+
+I =
+
+a re | . int = a _« ae L . ii
+= — = oo - = Fy Oa . « hid : F
+
+s . oa] ue” a rt |
+
+=I - a Foe, i i K toa nue fs _! ; x =
+
+; ; z "1 ep= 5 - : i - x - Tn
+=-_ = . : 7” 1” ey ® -*7 7 -_ = = . F 2” &f
+
+i Pa '_._ "= i an oe - 1”
+.- ._. F ] . -,"" = = = - wn 7
+
+= 1 i oo. . . “ I - y
+
+q
+OB =) . ; 1 oF
+. 7 a Pe oe nf Ff ™. ‘1 I a - I =
+
+7 =-= = / oA * it /: = ..= =
++ n = =I - i - - » 1 = ” 7 Su <
+i= Fi - » @ 1 = "=! Oo =, ‘he : i -
+- a ; a I 1 . - |
+4 - » 7 = 7 - % ;
+- c=! - - 4 : it
+® - :
+- = i - » =
+:
+I
+- - -
+: cL
+* - - : J
+= i }
+7 |
+= J a al Ly
+
+
+--- PAGE 75 ---
+| )
+
+: <_< n) Ox OOO
+- ¢ =) go DS BODE
+
+7 No< Gg 2} QuEXvoTa
+
+: a y S¢a x
+
+: () c SHE v 0
+| & s 296 Q ©
+; <= =~ 0 fo)
+| 0) . 06 Lo2Q2oo;i}fort
+wv o Teo se NOR) N ©
+fw rT oes (| S6Sansers
+| if - ul ANQZONT TH
+r
+
+: fe)
+
+fo - fe)
+
+LU N
+
+yo Ke)
+
+Po 5 c 3
+Ww oO Q ©
+: E i 0) Oo O
+28 | | Sgeagggee
+| 2 & x | §) 86S a08SeRs
+J <e a) § 8 |
+
+, Fg ew NO! |
+Boa go mw rao «|
+j < = o Yo 5 | we OOO,
+A ) LW o 2 O ; oof re re)
+/ ¢ 2) £ 22 jH8 | Q ooo gl
+, ©£ On oa. 2 , BHPEEE #!
+| OS oO Eee | BSS SO Oy Gg
+| 2 So 69% 4. OREFEFGE
+: Lu ' 6 @RxX E of F-—_— 9
+
+4 Z ©xX F cP 5G 0a 0c
+g Y wi = 20¢ FF VeETrLOO
+: eo 0095-79000 .4
+. + | - —wwerre a>
+|. ! go Ess oS Saxe
+; | QO F¢€<ecMsSssuw
+. | :
+
+
+--- PAGE 76 ---
+a Peal all tre ties = _. = = ee = ==" SS Pe —— ——— _ - i —— | al = hall -_— : sk .
+* © Li
+. : -
+a i . -
+- -
+:
+z
+z -
+LY 7 _ ‘ . J 7 bal *". - ‘
+/ Pi u . - r « - =
+“. ‘ ar ; A
+. . . {
+i I [= |
+a we a - Py o 7 a Ls
+Fr, . / ; - - L
+- i co , - a co i
+- i
+7 “= s & "s ;: . - 5 a ae fe . - |
+® - -
+7 -. 7 :
+i - i i = - a
+ae ’ u ——= : / ; —- “ - 4
+Lj a - a
+; s
+* 7 = - = -
+. . . 1
+ri * “ 7 - j
+; i
+. F =
+. 7 .
+I
+=. . —_ .
+. mt 7 P .
+. r . * -
+: oe - - ; = i
+: = + ; ‘ ‘ bh
+_ - - 7 . ot ; it
+- Led . - a rr - ' [= = bed .
+>
+" 7 - z
+— = LJ - :
+* - a
+: . - '
+a
+. {
+a - - a =
+. : : - '
+i - 7 : 7 a :
+2 7 ‘ ai
+= : Pl - - ; i :
+- a = LJ - e
+= ('* - - / - = - ie
+= - a - 7 ¢
+.
+-
+. ) . . ‘ -
+z /
+~ 7 7 - - - « « s - eo *
+:
+. S = s ‘ a ;
+7 . ° —t i
+- a
+s F / - - = a ' ; - ;
+F ‘ - x” F - = }
+i - = -
+"5 = = =» k i - is ‘
+a “ - i : - ==
+- - i
+‘i 7 . si ns il a ‘ -
+Fy ~ kh =_ - * +i
+. = nv -~ _ ‘ - = i Ls q
+al 4
+= ® 7 i]
+. : i - . F . . . . a 4
+- ‘ 7 a = ’ j
+7 - ‘ |
+. . fs _
+- = jy! LJ a é 4 F
+. . |
+»
+. Ay o
+" - |
+; sO : Oo i
+:
+. . i
+|
+Pe. 7 i
+. a) a .
+. 7 - 7
+- F '
+wali ‘ - ;
+-
+.
+A 0 7 '
+© r L
+‘i ; i :
+Pa 7 ' . 7 |
+Py p :
+7 - oo - ‘ - “ - f
+. = . .
+i
+- cc 2
+- ’ -
+’ .
+- . te
+. ;
+- 7
+; " ’ _ - ff
+' an f]
+; - I
+i i - i
+/ C
+: z
+- lm
+= .
+F, “ y
+7 . ;
+: .
+Cc / I
+r. = C
+a - - 7 Ld 7
+. :
+- . F
+7 -
+- :-— .
+/ - '
+
+
+--- PAGE 77 ---
+—— | ~~ ae
+
+: : a | / | vA \ ° S
+
+— 2 SOAS
+| a no ne iON A
+
+| TOSS ei 09
+
+| EN a tr |
+
+| iS x as x .°
+| | 1€
+
+| Y) 0
+; g | IMOoo
+; LI \. °
+
+| a SSS _ |
+
+: a
+
+; / iY uo 3 0 ®
+| | | \ lo >
+
+4 ~N s QOE
+
+4 fm, ; . . 8 x 0 Y)
+— <a Oo |
+nied Aa 2 Oho.
+an a
+: 7 7 .
+| : : " “ “ g =o <'
+a Seq
+~o¢ 29
+qo , , AROS
+‘ (S@N@WOJOLU) JOT SSnaOn
+
+
+--- PAGE 78 ---
+_ Oo aS = ae = oe ine ae ae Ve Te SE oo ma: “y
+- =. 7 1
+- .
+» 1 b 1 oy I o=_ 7 == -_ =
+- =e k ; = - ~ kk” = os = re TE = a = «a : a '
+wi “ a 1 = i = = - = t= «= + - - en t -
+IE= = -ji ° a af =p ge *  « %, - = - tt "4
+I * - \ = - i. s = . ie e- - .
+a i " oe fr, ee, e = Fa 1 1 = eh =
+. = a= - 1 - - = oe - : » - at : ;
+7 i . = ea - = - = ; . a a i" :
+= = ee ; - ; * Oo =a sil . bl 7 7 c 4 7 5"
+s - o 7 7 “. =— 7 “ 7 ; - - a
+= = . - ; ; oo _*= - = 7 ' 1s = ; ; :
+== 7 ee ‘= = "= - roy ye 7 -
+DS ,_~“ oa] =) hd - * ry
+i Fi 7 : = oon * 4 mn =. a = ;  &= = /
+I F Lt “ - i - i _ 7 = r 7 "a | - 4 i =.= ae
+~ 1% " - = 4 a) — .= ours = = - _! =a ih
+ra . =; - Plu, ' oud 7 ; BO ‘i ri* . ” oe
+oe BE ss = ' 1s = | i a ae i Ps - : :
+= == . .! . L ==") Oe rll oop 2 =e I ™
+- ¢ 7 =) “ i - : ios Fi 7 = 7 7
+"4 a x - a =) -_~ 1 1 = = = 7 7 : 7
+‘a - - Oo i i . - a . = 4 ;
+re = “ “1 - I = + I 5 i ;
+“1 - Re . r - 7 . os 7 - 7 - 7 ; Hl é ; a I 7 ;
+i= : a: 7 5 7 rn | 7 7 = a 1 "ute a = |
+- - = . 4. i =- - - = = - oe 7 =* 5 - - a : - “|
+SO ne a Oo - =. = = aL a - 7: 7
+: = 6 - 7 1° es : 7 F R .
+| - Fi ' " - aa ~ '* I ee - = m = « ""*, i*. .
+=I + -
+x = h ay -
+1 7 . = t ; ; sl 7 = = f
+i _ # i = J . ., i “ao we - " . : =
+= 4 i] co a 7 a a - 7 _
+’ = - rf ie =i a 7 - J i a a = ;
+- i . I "5 +> Ses =- * -* Se r 7 - - a,” - 7 -= "4
+a ; a - =) " be - 1 7 a - -
+' == i, r= . . “1 : a = - : I Pi 7 4a - .
+v ae et . - “1 4 =: ae 7 Sam * -,° - =. #
+7 ad 7 1 = = - - |
+F . Fr 1d @ .
+=" 7 4 se i = = = “ ; = 14 = ;
+SS Ly _ is - - = = _4 en | = a, i , !
+: ' x - = " - * oe - : a
+-" ' » 4 oe 1 , ==" _ Ly |
+=. I a a «lis = =~ 1 = "-? - _ =* 1 a
+4 - 1™= . ; / i, - sw 7 a - 7 la - - oa - - - ; . - x
+=, I _ = +6 a, 1, * .! -~_ = - i. I Ie j
+| = i — 7 u i. ” ' i _ = ;
+= =. ‘= ci = ‘ a a 7 a « i i ; ; - =! - iv
+- ‘Tes i = — 7 =. ¥
+a - = 1 « = is i = =f i
+# - I . | = o = k I
+i 4 » - i . - > -_=
+- I - r , - “| - - |
+vu 7 . - I A Fa I i ™
+. s fl . ;
+- = i - . + - a .
+i = I . . OO - - 7 ; .
+a ; 1 a = f . - |
+hs . - ss i F i a! i :
+‘ i bd = 7 * “ “ Fa i ~u = et - :
+I .. = - a a muy le" - = 7 = - - - |
+= =e 7 - = * i i = a: . oe 7
+= i . La sre |, -. 8 I F 7)
+= = - =
+» 7 x I .
+a - LJ i
+: a] = 7 & f ie |
+» ; - I x tom 4 uw" . ;
+iT 4 = #4 . =_—s 7 ey] . Oo - I ‘ay Be » F = @¢= — 7 Fr
+a = _ = I 1 a oe * 5 = LA bl a
+ll = et . . © 7 = © “~—= = 7 r
+. on I
+(a4 ™, : ==. - - *.
++ 4 7 r = _ * - _ - i 7 |
+i = “a . ‘, Oo . . = A y
+i= = - ; - = 4 1! - +
+= i Py . # a > vu = 8” - 2 :
+I, - - : = = a - mu! 7.) all id ia = I - =
+ee or - _ - a)
++ * oo - - rs | '1,.-= “4 1, a 3 -* ss - . - a
+= - “ - . ; a Ps 7 a : - - a
++ - - it - E
+7 ; = 7 3 r » :
+-_= - ; ; ; - 7 . . - . a —_ ; | » - a 4}
+= =e * 4 = - i . ' - ' ;
+= : i = -i , ; + ; . - , ws i
+; "sa 7 . fs
+i OO - 7 a
+1 - at = - =
+- ma Li - 7 - a
+Py i 1, 7
+= 7 7 = . = F
+a - ‘
+; I
+;
+—— oe) =. Be cal oe ee ye I i
+
+
+--- PAGE 79 ---
+|
+
+RENISHAW CALIBRATION INTERFEROMETER SYSTEM
+
+: ALL DATA
+
+: Nachine:NCV-400. Serial No:M11-467.
+
+| _  Date:12:16 Feb 16 2009 By:QAS/SA. :
+; Axis:Y. Location: ANS, -
+
+g TITLE: M/s ACUTECH. Filename: M11-467-Y1.RTL
+
+Units of data values are micrometres
+
+: Target 1 (+) ( 0.0000 millimetres)
+
+: 1) 0.0 2) 0.0 3) 0.0 4) 0.0
+
+; 5) 0.0
+
+y Target 1 (-)
+
+7 1) 0.0 2) 0.0 3) 0.0 4) 0.0
+
+: 5) 0.0
+
+4 Target 2 (+) ( 28.6670 millimetres)
+
+g <<" §) -1.0
+
+: Target 2 {-) .
+: 1) -1.0 2) -1.0 3) -1.0 4) 0.0
+
+: 5) 0.0
+
+Target 3 (+) ( 57.3340 millimetres)
+
+: 1) -2.0 2) -2.0 3) -2.0 . 4) -2.0
+
+: 5) -2.0
+
+: . Target 3 (-)
+
+1) -2.0 2) -2.0 3) -2.0 4) -2.0
+
+5) -2.0 .
+target 4 (+) ( 86.0010 millimetres)
+
+4 1) -2.0 2) -2.0 3) -1.0 4) -1.0 ,
+
+5) -1.0
+
+: Target 4 (-)
+
+J 1) -2.0 2) -1.0 3) -1.0 4) -1.0
+
+4 5) -1.0
+
+A EParget 5 (+) ( 114.6680 millimetres)
+
+; -* 1) -1.0 2) 0.0 3) 0.0 4) 0.0 .
+
+z 5) 0.0
+
+g farget 5 (-)
+
+: 1) -1.0 2) -1.0 3) 0.0 4) 0.0
+
+| Target 6 (+) ( 143.3350 millimetres)
+
+4 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+
+A 5) -1.0
+
+| Target 6 (-)
+
+A 1) -1.0 2) -2.0 3) -1.0 4) -1.0
+
+4 target 7 (+) ( 172.0020 millimetres)
+
+A 1) 0.0 2) 0.0 3) 0.0 4) 0.0 .
+
+j Target 7 (+) ;
+A 1) -1.0 2) -1.0 3) 0.0 4) 0.0
+z Target 8 (+) ( 200.6690 millimetres}
+
+4 1) -1.0 2) -1.0 3) 0.0 4) 0.0 ;
+A 5) 0.0
+
+
+--- PAGE 80 ---
+a ee _ e = = = 8 @ -_. ii = a = i=. a — 8 Cie = “Boe we Bee — th = = ‘al
+* - 1 7 - “ ;
+* - n
+«
+I “ a .
+- 4 1
+== .- * 4 = oo, =
+2 > a 7 * . : = - ; » i, . - .. : - 7 .
+==» = 1 —_ i! oe I= = = = I = . s!
+rF oo Oe = _ = I . “it - | st =
+* - . _ ml I = > oe 1 =I i=
+7 “= w4 * | tr =" ee FF, = . ="? - r ' = 7)
+, : a . x ' q
+- a.” a - iT - 1 J - a == _ = - . 7
+. - - _- == FI - . ' I = . Tl ou “ 4
+i se - a ' ; . i Fy - -_ it i “LI 7 *
+- 7 r =” a= = oo « = - = tI i= 7 - I |
+J -—" I == . ot _* = : 7 ?
+7 a = = ; os ™ = = a ‘ = as! :
+a stot " : an i 4 - raf 7 ; - - :
+- Fa - iF = = =@# J - 7 ' Oo an | = OB _—— =
+7 . = os = = = = & ; . =: - 7 f
+ra vee, = * " F : | - - 1
+‘= - 7 - ' = + a 7 - ; - ' a - 7 ft a ; - '
+_ ==) 1 “,- ™ - i ' a =o = br =F = 2 - we 7
+ne | 7 ss = = = . 7 “ ;
+wa " t= 7 “ - ;
+. “je Ts = oO 7 7" « - - ;
+= = 5 = ae I i ss st . I - - .
+=. * === — " , = _ ; i— = ‘SI 4 _ » bop pas = - a ; =)
+7 ; - “ i - re x —"; = 1" a 4. ; z |
+7 = = Z i —_ a a = - =
+= a = r 7 ae “. & = == - I
+=. ay ‘ ‘= F phe ; I I Fi i i eure a *, a
+7 - —— y * i] i _ =“, = “i a = 2
+I . & - * s = =. LA 1 = = « -—3 - ‘ = <
+* a - =; a - i ‘ - « =
+* = « +
+‘ - -
++ 7 - a:
+= By “ 7 = = *-
+- = = « FT. a ' iu, .— - - “ ' ee .
+=“ LI . oe r Ld ."! am bd _ : - - a '
+= . . + - I ” - 7 5 - 1 " = 4
+— a "a _ , F - *t qu - = “= = 1 = - a
+™, . at & bl Ea 4 . a -_e. * ' - i : i “=
+eo 4 - oo . = . ‘ = I 7 |
+a - a = := ioe aa = . - 1” 4
+a oe rt | . . - ; a -= - . - ; i |
+- 1” » aot a ; oo - - - . |
+i; — = & 4 _" * ; « ie =s « ; = 4s
+- - = i] - I . - =
+. ; ; 7 a ‘1 1 : =
+a =F Hl = — i - I - Is : - L
+; a | _ & = = v - .
+: - mo . 3 -,* ae 1" 4 =.
+5, oo = = oF att = Ss i=_a 5 -" = “eH * . 7 =
+a - . i= _ I 1 4 - a :
+a »! i “= = = 46 1: = = i” ; ‘ae =
+a I oe , 1, i i - . “ a =I oo Ta - u_ a
+* ; il - - - i = - = == @
+- 7 : a 1” * i ” ; ;
+z i _4= / - a = + 7 # a * a 1 i
+- - = - =o k = - ,""'*=
+é Ly le - a
+= . 1 i Oo
+= r ; i_- 7 - “a= = i + 1 _
+= = @ Dt = a kt 7 Oo - a" 4) | - *
+b Oo 7! . 4 + : ¢ ' —- |
+= i= = by a = : . 7 - == i . of.
+7 .
+. - 7 ; = - i 7 a
+1 ; 1+. 1 _ - == - _ = .
+: = : = ~ | Wi ' “"e = : {
+; ; I - 7 = 1 7 + |
+’ . LJ a
++ = » - :
+1 = 7 - é - 4]
+; — 1" = = . - a - * ' a |
+~ = Ls & = | = - " - 4 = i ‘
+cd = a Oo Oo t p
+i =". ds 2. = - /* Es W - - r - 7 : - = oO
+1 & OO a i . J i, 1 = J a. » Se, 3 a
+- . = * ' ==" . “we fe - - a 1.= = ae
+: i i” 2
+| 7
+I
+i = 7
+- a i a - SS 2 "* oh Ot a | | : 2 |
+- = - = " o _ . - = - - u rod
+=~ e - . - - = 1 - fi
+I : - . : rs = =) {
+“4. ; : i - -
+. -
+- ; a |
+7 ~ - i LJ LJ }
+- i
+= f
+i - 7
+' I ;
+. E
+“i - “ ;
+' in . f
+ee i Eee —- — = 0 -l— 7 , = e E
+
+
+--- PAGE 81 ---
+| Target 8 (-}
+
+1) -1.0 2) -1.0 3) -1.0 4) -1.0
+5) -1.0 |
+|g Target 9 (+) ( 229.3360 millimetres)
+; 1) -2.0 2) -1.0 3) -1.0 4) -1.0
+_ 5) -1.0
+
+Target 9 (-) .
+: 1) -2.0 2) -2.0 3) -1.0 4) -1.0
+d. 5) -1.0
+
+: Target 10 (+) { 258.0030 millimetres)
+
+1) -1.0 2) -1.0 3) -1.0 4) -1.0
+
+: 5) -1.0
+
+: Target 10 (-)
+
+7 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+? 5) -1.0
+
+Target 11 (+) ( 286.6700 millimetres)
+
+! 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+: 5) -1.0
+
+_Target 11 (-)
+
+| €2 1-10 2) -1.0 3) -1.0 4) -1.0
+: 5) -1.0
+
+7 Target 12 (+) ( 315.3370 millimetres)
+
+: 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+| 5) -1.0 -
+| Target 12 (-)
+
+: 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+: 5) -1.0
+
+| Target 13 (+) ( 344.0040 millimetres)
+
+i 1) 0.0 2) 0.0 3) 0.0 4) 1.0
+5) 1.0
+
+: Target 13 (-)
+
+| 1) -1.0 2) 0.0 3) 0.0 4) 0.0
+; 5) 0.0
+
+; Target 14 (+) ( 372.6710 millimetres)
+
+: 1) -1.0 2) -1.0 3) -1.0 4) -1.0
+: , 5) 0.0
+
+: Prrarget 14 {-}
+
+: ~*  1) -2.0 2) -2.0 3) -2.0 4) -2.0
+; 5) -1.0
+
+Target 15 (+) ( 401.3380 millimetres)
+
+1) -2.0 2) -1.0 3) -1.0 4) -1.0
+g 5) -1.0
+
+g Target 15 (-)
+
+; 1) -2.0 2) -2.0 3) -2.0 4) -1.0
+: 5) -1.0
+
+g Target 16 (+) ( 430.0050 millimetres)
+
+g 1) 0.0 2) 0.0 3) 0.0 4) 1.0
+A 5) 1.0
+
+4 Target 16 (-)
+
+g 1) 0.0 2) 0.0 3) 0.0 4) 0.0
+z 5) 0.0
+
+A .
+
+
+--- PAGE 82 ---
+'
+|
+!
+. t
+'
+
+
+--- PAGE 83 ---
+7 pi ae Ek Ee A ae a a a a oh a ae Ln SE ILC EEE a eee EEE
+i f
+i
+|
+;
+
+Sel
+| mw xs |
+od + v0 9 1) | a
+1 Oo © 92/1 € as > = So
+fi Sei ¥ NOPFRASGROVMANATHAS N
+- oO @ to|/ gs ~~ = = So |
+a") Sx a = i
+
+Ss am oF ae
+5. @-:- °
+m ff |
+4 bs = 2 Amn ena ae er er eae est
+| ma SLLSLELKSTSEE
+j 2 aANRYamrannn Gang
+y
+1 BE
+a co |
+A os
+i a3 |
+i al
+: EEEEEEEEEEEEE |
+7 HAA aa aa aS a aes oS
+z) OF UY AD Srey 1D WO et OLE Wy OY et |
+z SOHHDDOHONGHNAN
+5 j
+zi j
+| |
+A EEEEEE |
+A | EESSEESEESE i
+i eototnonnd
+A coot7MoOon Od
+Z| vw hw Pp Y | i Mie 2 }
+e | |
+Z| - | ¢
+zi | 3 | 2B
+oA | =
+‘| | £ | a
+a oOo
+4 i: a
+
+om 1
+; | E EE, LE E | $
+Z mnntnnoo fEFEEEFEFSESEEER EE ©
+Zi | - os : * a a a a |
+Z SSCFT PG San tet GBS ast ENnnt hae | =I
+ze | a@A* @ a e€eonenrtzoo.-vt Sas w !
+Z| 4 TN TOON GLOOM ANG al
+a i on H 7 = A - Fob ot jam
+— + @ oy)
+
+4 F NN 1 a Pa et
+Z ar S SA Vay
+g S
+—_—
+z EfR= 2 3
+zB EEaoU ie) [aa]
+Z 2 Seave &
+g ° > nN
+: 2 8 ESS S 5
+5 7 ©
+z ad S58 o
+bd as |
+: rm) “§ =
+z 2) 0 “ ce
+ze em in -
+Z oN ri
+za wn 4
+g Of 55 ) 3s 8 8 2
+zi ci #20 +3 iS) S iL
+A yo ow 2 Kd |
+A th oO as L 7)
+A Pcs ZLZx>x>s ‘eto t t Bee ES e e 8c 5
+2 = >> i 6 oe = o
+Z ONES x>RGeESSERSEY ESE LE ERR ° Sess 5p
+2 3 eer Mt SBaoE EZ eS EcEzBZescagas sa te Dae e
+2 F w OG no Oo ooE& PS aa ae O! DO ie . E 2&8 ©
+Z ot .8 SOP PBB e550 PPR vv~s#H Suptoaegr a
+z sSi-u SEG ScEL SPSS PMEMNMEER SSB ES EStEpuo Ss Bs
+z Q isa ad SECC assesses espaezsaaazeet & xB , 3B Ey & =.
+A a = seoaeeSSGESTEBBSS ESS Sos 23598 ®
+Z — ee 5 SSs2284 S bb U 007 0 OOD E Co ow Doe ie)
+Z| is poet es I YNUuUHnNNnNOOHWHWOUVOVA OY Hgeunerer yn =~
+Z a0 Y PH
+#5 m2z6a e ©
+i]
+
+
+--- PAGE 84 ---
+ses °* on _ in oe ee ————— ol Lan ae | CUO le || | Ue eee el ee Oe — eee) i La ]
+.
+. 1] i |
+- '
+- i ‘ - -
+i % - «
+« 7 -
+- - . 7 ,
+é ; .
+- . - a ™ 7 .
+.
+* - ‘ - ‘ ‘ = -
+5 LJ '
+7 . a . a - bs od
+' Ld .* = F
+‘ 7 7 a
+‘ . Fla = 7 7 - . “ys ba s i
+. ; : - J ® - -
+5 .
+- . 7 ‘ . =
+Oo F ‘ s * .
+- = ' ¥ 7 ’ i
+F ® p Fi
+; . .e ® -
+~
+- - : 4“. a
+7 - L z
+. .
+®
+* ®
+®
+7 -
+® - :
+: P ‘ i, - ; . . -
+-
+7 Ty =. * k 7 - ' - Fi
+- - - - h
+: bi 7 *. . . . 7
+. 7 - cy LJ
+Py ‘ a - 7 ‘ 7
+Ls ‘ ' o * 7 1
+1 7 . - -
+'
+- i
+—_=— . i }
+i
+1
+i
+x - 7
+a Py - - - ‘ il
+7 i] . » 7 a |
+; - . = Po |
+= " a“ . i
+. "
+. - - = 7 - ‘
+" : *
+® - a -
+- ‘ "
+- _ ' . . :
+a . . i
+7 : - « -
+he
+P s a 7 ; -
+= h '
+® . u* » 4 -
+a ; ; 7 = / i
+é - a ' : \
+. . -
+7 i" o 7 = 4
+bel f}
+- : " - * = 7 - -
+- = . - ‘J
+- in . 7 )
+= - -
+. . = : = : yi
+" &
+s . . . }
+‘(on _ 7 :
+- - - -
+, i
+- ® -
+' " ® ; "
+= | ad
+- = . “i ="
+D . . '
+7 7 : 5 i 7 f
+-
+x ~ wll &
+. LJ bas - a
+. - ® = .
+"
+- ' -
+4
+is = - _— 7 is
+on - A - .
+a a
+Ld .
+- "
+: - is = |
+_ ; - 7 F i ‘
+x ;
+- “7 i. . . ; - ;
+a « - . re
+- ; hi
+® 2 a™
+7 Lil o we - -
+*
+1
+bd - bal “ : a -
+- - Ld
+. 7 - ;
+"
+® :
+;
+= - '
+fr
+-
+- : - 7 .
+_— = — = r — a SS eae ———— a 7 _ ,
+
+
+--- PAGE 85 ---
+|
+|
+|
+| ron
+| x % S
+1% ~~ 69D S
+= Gs 2 ~~
+a va 5 \o
+J © @ to = =
+| tof] sr N
+| 3 be a oY >
+| ee 6 4
+2Z =5
+|. w os
+| a4 3
+| &
+| -
+|
+x
+| +
+/ a ~~
+| N\
+: i
+|
+|
+| \
+| ~ XN ‘/ £
+\ “4 O. .
+| B
+A,
+° ©
+=|
+eal
+| . ‘e)
+4
+| =f rc =
+) g S
+; 2 fe
+Q FS
+2
+5 2
+3
+U Es
+| < =
+v e £€ £€ 2
+- a & yn E o
+Sa Ble” 888 a
+: Xn |- = c ON fo] ps %
+! Lin Oo*. a Oo =
+| So 48/8 ARSSR Bas iz
+fe c 4 vu
+. 1R8e)/ Sv -2 o 5
+Tres cs Ke 2 Ss 5 v i) Eb
+: INE] 3 o 8 PuSGwHs
+| Oozer) > EE FesgeRetad 2
+| . 9 t In a Syl 3 S9Qece o,
+Nytse, §8Rseetu lc esr st <
+mist; $eaREesagses t
+| ONfy| FS xpeHe eae HGS =
+° W) > a7 , 3 ful 2
+| He O0 ! ie
+|
+|
+,
+
+
+--- PAGE 86 ---
+- J ws oe Um OO el
+; & - — en _ a i a ae
+- “~ te ss « & cs
+x i - 7 |
+' et ;
+. - 7 |
+a 7 -
+: ad
+- : ry ; . = : 7 _ ; Ld . =
+- * = I : ; 7, - oe :
+: - = x, _ 7 = "I = - 7 ;
+: a a _ we ; - - iL , f i J = 7 - - z 'y = "
+at 1 = 3 A» , ** =*5 s = — - 7 7 i ;
+7 ou = -_ 1 = i - 11 - 7 ;
+" a - ¢ a Oo ay ho 7 it « : 4 ef ! -* 7
+- 7 i "= 1 e ; " & sm = = ve 7 Oo ; |
+i! 14 io / - il : ' - - .
+“= = = = - - - - - : F
+; ; 7 - ; - . i = of
+A RB “f= f a | - ; ‘
++ r a ta > I ; » _ - a :
+_' , = *. - , _ tt 1 ; 1H ; | - 0
+- | 7 : . , [ r _ 7 - = © - ~ 6
+e a 4 re er oe ; Tr . : .
+# Z ae” >" = =F - - «.' : - 1 4 -
+i 1 . Fi Oo 1 a ed - / ; : = ; ; - “
+J a 1" 1 8 oe a
+. - ; 7 a oO a = _y, * > = = ' ; “jl
+: - - _ I 1 7 s]
+* * : > sl = & an * = _ : .~ : = 7
+an 8 a pus s . = “tb i" - = “fs
+: ; F 1 - i " =
+L. _* Se 7 ; 7 23" se : 7
+7 La 7 a 7 - » 7 a - : - fl
+ry -_- = we, 7 - a - |
+: c - te
+ze. = - a ee - i * ™ fe . = i t = ‘
+= 1 ol 7 «@: oe ’ ae ~ <a : - “1
+- : : - 7 -_ > 1. ; - = : 7 .- = ‘ “ 7 U i 7 :
+; 7 7 7 7 - 7 I 7 = “a n u I i
+oe of oS =. = + .  # - 1,’ a ; ; : aan
+27 _ oo™F ae =) - - 7 "8 a * _
+rs i 7 i e & Is! - a I . =f
+i = _ we - an
+. : ; La ;
+a -= ; : - . |
+=. . . ; - “ah - _ - I. a I b = _ * ="
+7 = =~ § = oF ‘ - -i ot & -" en3 " 4°
+; 7 — : - - _ b - r=
+Oo - an ne = _ = . 3 ar | ' = - 7 , * oe _
+: a ee oe 7 “ 7 i
+- - _ i «=
+oo I” 1 * ' 7 7 |
+= Be J a 1 7 - - : a : 7
+- I ” i a _.> oe : ; oe - -* =
+- r. 7 f 7 oo i ». Oo . ._ u # = w= o 7 _ i
+: po, te Ht == — 1, Gh me ; -
+fm 7 r 7 Ld _ — : a a 7 7 L ; - - ; ; :
+“s =. lal 7 a ; - {
+Oo a J pen i i . - a 1 =
+Piru “ -% . % - - wl -* =" J
+| = 1 ' ' . - ; ; I
+= / / i A ; .
+- i 7 ; . |
+7 = . s i - -
++ 1 ' , ;
+- : - © 1 = 7
+-/ + . 7 ;
+a. = "=~ = ~ oe a a 7 ; |
+oe - 7 : et ; ™ : I Sw i Pr a it " “ 7 |
+= _ _ Ps : * = = "es r= 4" =]
+. ss - te et f= unt - ft 7
+: : = a
+= . ;
+Z i : |
+- : - * . Z
+- - 1 r - . = a . 7
+; | y.s “ a: I i - i ;
+: ; : - ; ; ‘| 1 + i
+1 t I 4 - a
+' 7 wo a ;
+a : oO - _ ", i aa = -_ * I -
+‘ . a 2s re os :
+a yw! a 7 = 5; = r ; , - - - a |
+i ' as "i" a ; : _
+Ce | _ _ = . . 1 = = _ 7 _- ws - a =
+7 ; “il * I = - - ; a -s ; ;
+i i - = 2 - a” (ot == = rs - - ; ; ; ;
+= = = -_ . . a - - I - - - - ; ; .
+. = i] 4 eu F ; : ‘1 7 7 - ;
+1 - a
+4 ie: ; 7 : -_ |
+- “ «| ‘. ;
+. - 4 a -— s a ke - i a I ; - }
+- a1 7 ‘ 7 “Fr i * 7 _ ; :
+a “ e - ; / ae
+s gy ' 7 . x. B - ; 7 -
+8 - a r . 7 -
+7 « F a1“ -
+= = ;
+i] + ff = ; : : |
+, ; ; 1= Y
++ ; : | |
+| i
+——— . =r" __ Ll ==" / 1 |
+TTT TS TS A TL, | FJ - =
+
+
+--- PAGE 87 ---
+| yey . L [on
+
+1 SS 38 , S
+
+; lo) . c= AQ
+
+3 ow > ~~
+
+4 = “we Ae) ‘6
+
+A OO _ vo > ct
+
+: oD 33 E ~
+
+: Pay = eV . a3 N
+
+| Ay Oo oe
+
+wi >
+
+2 <2
+
+i. | BE | .
+
+: mem 7s
+
+: c
+
+I: -— ‘
+
+7 ~~
+
+7 +
+
+aw >
+
+: .
+
+>
+
+: \ / o)
+
+e a AY
+S
+
+: S N
+
+fe) Ss eB
+
+; rs) . in
+
+: Q 3
+
+.* fe)
+
+_ bat a
+
+j & a
+
+=}
+
+4 = £ a
+
+Z ty a E,E 5
+
+Z ww iA > eo 8 § &
+
+g C9 .8/ 5 sss & 8
+
+sf .') = =
+
+g Q real & mapeux 8382 =
+
+3] bs = | @ . cr c £
+
+z TTSs' B 2S w SEEy 5 Eb
+
+A oNSE2| 3 8 fF Bxezaers 3
+
+a . io z 1 0 £ BPoecweae ‘ =
+
+. ic) an [=] Co w YRETDO VRE
+
+Z Tuo | noe 5 Qh DU gy & o Bo
+
+5 N t of 1 oo iy] s Ee ae) ccyv oat o Oo hand
+
+Z ote. seeessagsess (eS)
+
+z a ur>Penurarnwd . =
+
+g ores; f° go 3
+
+z maZog' © F 2
+
+7
+
+
+--- PAGE 88 ---
+!
+- 7 -
+rs ~ - = ‘
+wr. 4
+P Pa =
+|
+; : 7
+’ 7
+- 7 “ai '
+: *
+: 4 }
+%
++»
+¢ -
+J 7 ee
+J ‘
+J .
+e
+* '
+. |

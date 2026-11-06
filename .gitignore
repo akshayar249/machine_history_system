@@ -1,24 +1,25 @@
-# Original company PDFs
-data/pdfs/
 
-# Extracted page images and OCR files
-data/pages/
-data/*raw_ocr*
-
-# Generated Excel files
-formatted.xlsx
-
-# Databases
-*.db
-*.sqlite3
-
-# Python virtual environment
+# Python virtual environments
 .venv/
 venv/
+env/
 
-# Python cache
+# Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Environment variables
+# Environment variables and secrets
 .env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
