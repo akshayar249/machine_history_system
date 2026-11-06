@@ -1,0 +1,24 @@
+# Original company PDFs
+data/pdfs/
+
+# Extracted page images and OCR files
+data/pages/
+data/*raw_ocr*
+
+# Generated Excel files
+formatted.xlsx
+
+# Databases
+*.db
+*.sqlite3
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
