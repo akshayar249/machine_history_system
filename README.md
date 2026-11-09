@@ -111,7 +111,6 @@ The Streamlit-based application provides the following functionalities:
 machine_history_system/
 │
 ├── appp.py
-├── app.py
 ├── config.py
 ├── database.py
 ├── extract_infosheets.py
